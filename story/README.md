@@ -1,5 +1,5 @@
 
-What to do
+Telling a Story with Data (30 Points)
 ================
 
 For this assignment, you need to find some data of your own.  After
