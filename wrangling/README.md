@@ -102,6 +102,15 @@ You should not need to modify the "main" function.
 
 Submit your CSV file to [Kaggle](https://www.kaggle.com/c/2018-414-wrangling) and it will score how well you did.
 
+How to begin
+-----------------------
+
+First, look at the code that I've provided.  Run it.  Look at the outputs.  You'll notice the key.csv is very close to what you need to produce.  It's just that the numbers are wrong.  That's because the code isn't actually computing the margins between districts.
+
+We did an example with the 2012 election where we computed margins from a CSV file.  Make sure you completely understand what we did there and that you can replicate it yourself.  This will save you headaches while exploring this assignment.
+
+Run the tests.py program and see what's broken.  Work to try to fix that by filling in the functions that I've left incomplete.  You should get down to zero errors in the test file.  Now, take a look at the output of your program (the CSV file) and see if it looks right.  You can get feedback from Kaggle if you're on the right track.
+
 Writeup (10 points)
 -----------------------
 
