@@ -1,0 +1,1478 @@
+station,type,count,time,lat,long
+Washington Blvd & 7th St N,Leave,2,LATEMORN,38.880834,-77.091129
+Washington Blvd & 7th St N,Leave,2,AFTERNOON,38.880834,-77.091129
+1st & Washington Hospital Center NW,Leave,7,EVENING,38.928743,-77.012457
+1st & Washington Hospital Center NW,Leave,1,LATEMORN,38.928743,-77.012457
+1st & Washington Hospital Center NW,Leave,1,NIGHT,38.928743,-77.012457
+19th & K St NW,Leave,12,EVENING,38.902204,-77.04337
+19th & K St NW,Leave,4,LATEMORN,38.902204,-77.04337
+19th & K St NW,Leave,7,AFTERNOON,38.902204,-77.04337
+19th & K St NW,Leave,4,NIGHT,38.902204,-77.04337
+Potomac & Pennsylvania Ave SE,Leave,5,EVENING,38.8803,-76.9862
+Potomac & Pennsylvania Ave SE,Leave,3,EARLYMORN,38.8803,-76.9862
+Potomac & Pennsylvania Ave SE,Leave,1,LATENIGHT,38.8803,-76.9862
+Potomac & Pennsylvania Ave SE,Leave,10,LATEMORN,38.8803,-76.9862
+Potomac & Pennsylvania Ave SE,Leave,9,AFTERNOON,38.8803,-76.9862
+Potomac & Pennsylvania Ave SE,Leave,7,NIGHT,38.8803,-76.9862
+Florida Ave & R St NW,Leave,1,LATENIGHT,38.9126,-77.0135
+Florida Ave & R St NW,Leave,5,EVENING,38.9126,-77.0135
+Florida Ave & R St NW,Leave,18,LATEMORN,38.9126,-77.0135
+Florida Ave & R St NW,Leave,18,AFTERNOON,38.9126,-77.0135
+Florida Ave & R St NW,Leave,6,NIGHT,38.9126,-77.0135
+Smithsonian / Jefferson Dr & 12th St SW,Leave,26,EVENING,38.888767,-77.02858
+Smithsonian / Jefferson Dr & 12th St SW,Leave,5,LATEMORN,38.888767,-77.02858
+Smithsonian / Jefferson Dr & 12th St SW,Leave,19,AFTERNOON,38.888767,-77.02858
+Smithsonian / Jefferson Dr & 12th St SW,Leave,4,NIGHT,38.888767,-77.02858
+3000 Connecticut Ave NW / National Zoo,Leave,2,EARLYMORN,38.930282,-77.055599
+3000 Connecticut Ave NW / National Zoo,Leave,12,EVENING,38.930282,-77.055599
+3000 Connecticut Ave NW / National Zoo,Leave,10,LATEMORN,38.930282,-77.055599
+3000 Connecticut Ave NW / National Zoo,Leave,6,AFTERNOON,38.930282,-77.055599
+3000 Connecticut Ave NW / National Zoo,Leave,2,NIGHT,38.930282,-77.055599
+23rd & Crystal Dr,Leave,2,EVENING,38.8533,-77.0498
+1st & Rhode Island Ave NW,Leave,13,LATEMORN,38.915417,-77.012289
+1st & Rhode Island Ave NW,Leave,7,EVENING,38.915417,-77.012289
+1st & Rhode Island Ave NW,Leave,4,EARLYMORN,38.915417,-77.012289
+1st & Rhode Island Ave NW,Leave,5,AFTERNOON,38.915417,-77.012289
+1st & Rhode Island Ave NW,Leave,6,NIGHT,38.915417,-77.012289
+3rd & D St SE,Leave,15,EVENING,38.8851,-77.0023
+3rd & D St SE,Leave,4,EARLYMORN,38.8851,-77.0023
+3rd & D St SE,Leave,1,LATENIGHT,38.8851,-77.0023
+3rd & D St SE,Leave,7,LATEMORN,38.8851,-77.0023
+3rd & D St SE,Leave,7,AFTERNOON,38.8851,-77.0023
+3rd & D St SE,Leave,13,NIGHT,38.8851,-77.0023
+12th & L St NW,Leave,14,EVENING,38.903819,-77.0284
+12th & L St NW,Leave,1,EARLYMORN,38.903819,-77.0284
+12th & L St NW,Leave,1,LATENIGHT,38.903819,-77.0284
+12th & L St NW,Leave,13,LATEMORN,38.903819,-77.0284
+12th & L St NW,Leave,5,AFTERNOON,38.903819,-77.0284
+12th & L St NW,Leave,10,NIGHT,38.903819,-77.0284
+Central Library / N Quincy St & 10th St N,Leave,1,AFTERNOON,38.88397,-77.10783
+Central Library / N Quincy St & 10th St N,Leave,2,NIGHT,38.88397,-77.10783
+23rd & Eads,Leave,2,LATEMORN,38.853613,-77.053535
+23rd & Eads,Leave,2,EVENING,38.853613,-77.053535
+23rd & Eads,Leave,1,EARLYMORN,38.853613,-77.053535
+Clarendon Blvd & N Fillmore St,Leave,3,LATEMORN,38.8881,-77.09308
+Clarendon Blvd & N Fillmore St,Leave,1,LATENIGHT,38.8881,-77.09308
+Clarendon Blvd & N Fillmore St,Leave,5,EVENING,38.8881,-77.09308
+Clarendon Blvd & N Fillmore St,Leave,4,NIGHT,38.8881,-77.09308
+Wilson Blvd & N Edgewood St,Leave,1,NIGHT,38.889,-77.0925
+Wilson Blvd & N Edgewood St,Leave,5,EVENING,38.889,-77.0925
+Wilson Blvd & N Edgewood St,Leave,1,LATEMORN,38.889,-77.0925
+Wilson Blvd & N Edgewood St,Leave,3,AFTERNOON,38.889,-77.0925
+Wilson Blvd & N Edgewood St,Leave,1,LATENIGHT,38.889,-77.0925
+Massachusetts Ave & Dupont Circle NW,Leave,45,EVENING,38.9101,-77.0444
+Massachusetts Ave & Dupont Circle NW,Leave,2,EARLYMORN,38.9101,-77.0444
+Massachusetts Ave & Dupont Circle NW,Leave,5,LATENIGHT,38.9101,-77.0444
+Massachusetts Ave & Dupont Circle NW,Leave,36,LATEMORN,38.9101,-77.0444
+Massachusetts Ave & Dupont Circle NW,Leave,38,AFTERNOON,38.9101,-77.0444
+Massachusetts Ave & Dupont Circle NW,Leave,39,NIGHT,38.9101,-77.0444
+Eckington Pl & Q St NE,Leave,7,EVENING,38.910972,-77.00495
+Eckington Pl & Q St NE,Leave,6,LATEMORN,38.910972,-77.00495
+Eckington Pl & Q St NE,Leave,4,AFTERNOON,38.910972,-77.00495
+Ballston Metro / N Stuart & 9th St N,Leave,4,EVENING,38.881044,-77.111768
+Ballston Metro / N Stuart & 9th St N,Leave,6,LATEMORN,38.881044,-77.111768
+Ballston Metro / N Stuart & 9th St N,Leave,7,AFTERNOON,38.881044,-77.111768
+Ballston Metro / N Stuart & 9th St N,Leave,1,NIGHT,38.881044,-77.111768
+Potomac Ave & 35th St S,Leave,1,AFTERNOON,38.844015,-77.050537
+Commerce St & Fayette St,Leave,5,EVENING,38.805648,-77.05293
+Commerce St & Fayette St,Leave,3,AFTERNOON,38.805648,-77.05293
+Commerce St & Fayette St,Leave,2,NIGHT,38.805648,-77.05293
+Pennsylvania & Minnesota Ave SE,Leave,1,AFTERNOON,38.873057,-76.971015
+10th & Monroe St NE,Leave,4,LATEMORN,38.932514,-76.992889
+10th & Monroe St NE,Leave,2,AFTERNOON,38.932514,-76.992889
+1st & K St SE,Leave,1,NIGHT,38.87861,-77.006004
+1st & K St SE,Leave,4,EVENING,38.87861,-77.006004
+1st & K St SE,Leave,5,LATEMORN,38.87861,-77.006004
+1st & K St SE,Leave,2,AFTERNOON,38.87861,-77.006004
+1st & K St SE,Leave,2,LATENIGHT,38.87861,-77.006004
+7th & T St NW,Leave,10,EVENING,38.9155,-77.0222
+7th & T St NW,Leave,3,EARLYMORN,38.9155,-77.0222
+7th & T St NW,Leave,2,LATENIGHT,38.9155,-77.0222
+7th & T St NW,Leave,13,LATEMORN,38.9155,-77.0222
+7th & T St NW,Leave,3,AFTERNOON,38.9155,-77.0222
+7th & T St NW,Leave,12,NIGHT,38.9155,-77.0222
+20th & Crystal Dr,Leave,1,EVENING,38.8564,-77.0492
+20th & Crystal Dr,Leave,4,LATEMORN,38.8564,-77.0492
+20th & Crystal Dr,Leave,2,AFTERNOON,38.8564,-77.0492
+20th & Crystal Dr,Leave,1,NIGHT,38.8564,-77.0492
+N Rhodes & 16th St N,Leave,1,LATEMORN,38.892164,-77.079375
+N Rhodes & 16th St N,Leave,2,AFTERNOON,38.892164,-77.079375
+Adams Mill & Columbia Rd NW,Leave,13,EVENING,38.922925,-77.042581
+Adams Mill & Columbia Rd NW,Leave,5,EARLYMORN,38.922925,-77.042581
+Adams Mill & Columbia Rd NW,Leave,10,LATENIGHT,38.922925,-77.042581
+Adams Mill & Columbia Rd NW,Leave,13,LATEMORN,38.922925,-77.042581
+Adams Mill & Columbia Rd NW,Leave,24,AFTERNOON,38.922925,-77.042581
+Adams Mill & Columbia Rd NW,Leave,15,NIGHT,38.922925,-77.042581
+15th & Hayes St,Leave,2,EVENING,38.8604,-77.0603
+Thomas Circle,Leave,26,EVENING,38.9059,-77.0325
+Thomas Circle,Leave,2,EARLYMORN,38.9059,-77.0325
+Thomas Circle,Leave,2,LATENIGHT,38.9059,-77.0325
+Thomas Circle,Leave,34,LATEMORN,38.9059,-77.0325
+Thomas Circle,Leave,25,AFTERNOON,38.9059,-77.0325
+Thomas Circle,Leave,18,NIGHT,38.9059,-77.0325
+Ohio Dr & West Basin Dr SW / MLK & FDR Memorials,Leave,6,EVENING,38.88412,-77.04657
+Ohio Dr & West Basin Dr SW / MLK & FDR Memorials,Leave,1,LATEMORN,38.88412,-77.04657
+Ohio Dr & West Basin Dr SW / MLK & FDR Memorials,Leave,9,AFTERNOON,38.88412,-77.04657
+Ward Circle / American University,Leave,5,EVENING,38.938736,-77.087171
+Ward Circle / American University,Leave,3,AFTERNOON,38.938736,-77.087171
+Ward Circle / American University,Leave,4,NIGHT,38.938736,-77.087171
+4th & East Capitol St NE,Leave,7,EVENING,38.889955,-77.000349
+4th & East Capitol St NE,Leave,9,LATEMORN,38.889955,-77.000349
+4th & East Capitol St NE,Leave,10,AFTERNOON,38.889955,-77.000349
+4th & East Capitol St NE,Leave,8,NIGHT,38.889955,-77.000349
+New Hampshire Ave & T St NW [formerly 16th & U St NW],Leave,21,EVENING,38.91554,-77.03818
+New Hampshire Ave & T St NW [formerly 16th & U St NW],Leave,4,EARLYMORN,38.91554,-77.03818
+New Hampshire Ave & T St NW [formerly 16th & U St NW],Leave,9,LATENIGHT,38.91554,-77.03818
+New Hampshire Ave & T St NW [formerly 16th & U St NW],Leave,28,LATEMORN,38.91554,-77.03818
+New Hampshire Ave & T St NW [formerly 16th & U St NW],Leave,20,AFTERNOON,38.91554,-77.03818
+New Hampshire Ave & T St NW [formerly 16th & U St NW],Leave,19,NIGHT,38.91554,-77.03818
+Metro Center / 12th & G St NW,Leave,1,LATENIGHT,38.898364,-77.027869
+Metro Center / 12th & G St NW,Leave,35,EVENING,38.898364,-77.027869
+Metro Center / 12th & G St NW,Leave,9,LATEMORN,38.898364,-77.027869
+Metro Center / 12th & G St NW,Leave,13,AFTERNOON,38.898364,-77.027869
+Metro Center / 12th & G St NW,Leave,16,NIGHT,38.898364,-77.027869
+C & O Canal & Wisconsin Ave NW,Leave,4,LATEMORN,38.90375,-77.06269
+C & O Canal & Wisconsin Ave NW,Leave,18,EVENING,38.90375,-77.06269
+C & O Canal & Wisconsin Ave NW,Leave,1,EARLYMORN,38.90375,-77.06269
+C & O Canal & Wisconsin Ave NW,Leave,14,AFTERNOON,38.90375,-77.06269
+C & O Canal & Wisconsin Ave NW,Leave,8,NIGHT,38.90375,-77.06269
+USDA / 12th & Independence Ave SW,Leave,17,EVENING,38.887237,-77.028226
+USDA / 12th & Independence Ave SW,Leave,1,LATEMORN,38.887237,-77.028226
+USDA / 12th & Independence Ave SW,Leave,8,AFTERNOON,38.887237,-77.028226
+USDA / 12th & Independence Ave SW,Leave,1,NIGHT,38.887237,-77.028226
+27th & Crystal Dr,Leave,9,EVENING,38.848441,-77.051516
+27th & Crystal Dr,Leave,1,NIGHT,38.848441,-77.051516
+Connecticut Ave & Newark St NW / Cleveland Park,Leave,8,EVENING,38.934267,-77.057979
+Connecticut Ave & Newark St NW / Cleveland Park,Leave,8,LATEMORN,38.934267,-77.057979
+Connecticut Ave & Newark St NW / Cleveland Park,Leave,1,AFTERNOON,38.934267,-77.057979
+Connecticut Ave & Newark St NW / Cleveland Park,Leave,3,NIGHT,38.934267,-77.057979
+Park Rd & Holmead Pl NW,Leave,20,EVENING,38.9308,-77.0315
+Park Rd & Holmead Pl NW,Leave,5,EARLYMORN,38.9308,-77.0315
+Park Rd & Holmead Pl NW,Leave,10,LATENIGHT,38.9308,-77.0315
+Park Rd & Holmead Pl NW,Leave,17,LATEMORN,38.9308,-77.0315
+Park Rd & Holmead Pl NW,Leave,17,AFTERNOON,38.9308,-77.0315
+Park Rd & Holmead Pl NW,Leave,22,NIGHT,38.9308,-77.0315
+Bladensburg Rd & Benning Rd NE,Leave,6,EVENING,38.900413,-76.982872
+Bladensburg Rd & Benning Rd NE,Leave,11,LATEMORN,38.900413,-76.982872
+Bladensburg Rd & Benning Rd NE,Leave,8,AFTERNOON,38.900413,-76.982872
+Bladensburg Rd & Benning Rd NE,Leave,2,NIGHT,38.900413,-76.982872
+Tenleytown / Wisconsin Ave & Albemarle St NW,Leave,6,EVENING,38.947607,-77.079382
+Tenleytown / Wisconsin Ave & Albemarle St NW,Leave,4,LATEMORN,38.947607,-77.079382
+Tenleytown / Wisconsin Ave & Albemarle St NW,Leave,10,AFTERNOON,38.947607,-77.079382
+Tenleytown / Wisconsin Ave & Albemarle St NW,Leave,10,NIGHT,38.947607,-77.079382
+3rd & G St SE,Leave,7,EVENING,38.881185,-77.001828
+3rd & G St SE,Leave,7,LATEMORN,38.881185,-77.001828
+3rd & G St SE,Leave,11,AFTERNOON,38.881185,-77.001828
+3rd & G St SE,Leave,9,NIGHT,38.881185,-77.001828
+N Quincy St & Wilson Blvd,Leave,1,LATENIGHT,38.880151,-77.107673
+N Quincy St & Wilson Blvd,Leave,3,LATEMORN,38.880151,-77.107673
+N Quincy St & Wilson Blvd,Leave,2,NIGHT,38.880151,-77.107673
+US Dept of State / Virginia Ave & 21st St NW,Leave,3,NIGHT,38.894919,-77.046587
+US Dept of State / Virginia Ave & 21st St NW,Leave,23,EVENING,38.894919,-77.046587
+US Dept of State / Virginia Ave & 21st St NW,Leave,4,LATEMORN,38.894919,-77.046587
+US Dept of State / Virginia Ave & 21st St NW,Leave,6,AFTERNOON,38.894919,-77.046587
+US Dept of State / Virginia Ave & 21st St NW,Leave,1,LATENIGHT,38.894919,-77.046587
+13th & D St NE,Leave,3,EARLYMORN,38.894832,-76.987633
+13th & D St NE,Leave,7,EVENING,38.894832,-76.987633
+13th & D St NE,Leave,25,LATEMORN,38.894832,-76.987633
+13th & D St NE,Leave,9,AFTERNOON,38.894832,-76.987633
+13th & D St NE,Leave,2,NIGHT,38.894832,-76.987633
+20th St & Florida Ave NW,Leave,17,NIGHT,38.9154,-77.0446
+20th St & Florida Ave NW,Leave,22,EVENING,38.9154,-77.0446
+20th St & Florida Ave NW,Leave,21,LATEMORN,38.9154,-77.0446
+20th St & Florida Ave NW,Leave,14,AFTERNOON,38.9154,-77.0446
+20th St & Florida Ave NW,Leave,3,LATENIGHT,38.9154,-77.0446
+Eastern Market / 7th & North Carolina Ave SE,Leave,19,EVENING,38.886952,-76.996806
+Eastern Market / 7th & North Carolina Ave SE,Leave,2,EARLYMORN,38.886952,-76.996806
+Eastern Market / 7th & North Carolina Ave SE,Leave,2,LATENIGHT,38.886952,-76.996806
+Eastern Market / 7th & North Carolina Ave SE,Leave,5,LATEMORN,38.886952,-76.996806
+Eastern Market / 7th & North Carolina Ave SE,Leave,9,AFTERNOON,38.886952,-76.996806
+Eastern Market / 7th & North Carolina Ave SE,Leave,13,NIGHT,38.886952,-76.996806
+37th & O St NW / Georgetown University,Leave,18,EVENING,38.90774,-77.071652
+37th & O St NW / Georgetown University,Leave,2,EARLYMORN,38.90774,-77.071652
+37th & O St NW / Georgetown University,Leave,1,LATENIGHT,38.90774,-77.071652
+37th & O St NW / Georgetown University,Leave,3,LATEMORN,38.90774,-77.071652
+37th & O St NW / Georgetown University,Leave,14,AFTERNOON,38.90774,-77.071652
+37th & O St NW / Georgetown University,Leave,6,NIGHT,38.90774,-77.071652
+S Glebe & Potomac Ave,Leave,3,EVENING,38.8426,-77.0502
+S Glebe & Potomac Ave,Leave,4,LATEMORN,38.8426,-77.0502
+S Glebe & Potomac Ave,Leave,4,AFTERNOON,38.8426,-77.0502
+S Glebe & Potomac Ave,Leave,1,NIGHT,38.8426,-77.0502
+Anacostia Metro,Leave,3,LATEMORN,38.8624,-76.9949
+19th St & Pennsylvania Ave NW,Leave,1,EARLYMORN,38.9003,-77.0429
+19th St & Pennsylvania Ave NW,Leave,19,EVENING,38.9003,-77.0429
+19th St & Pennsylvania Ave NW,Leave,4,LATEMORN,38.9003,-77.0429
+19th St & Pennsylvania Ave NW,Leave,6,AFTERNOON,38.9003,-77.0429
+19th St & Pennsylvania Ave NW,Leave,7,NIGHT,38.9003,-77.0429
+Washington Blvd & 10th St N,Leave,2,EVENING,38.884734,-77.093485
+Washington Blvd & 10th St N,Leave,1,AFTERNOON,38.884734,-77.093485
+7th & Water St SW / SW Waterfront,Leave,1,EARLYMORN,38.878925,-77.024016
+7th & Water St SW / SW Waterfront,Leave,8,EVENING,38.878925,-77.024016
+7th & Water St SW / SW Waterfront,Leave,4,LATEMORN,38.878925,-77.024016
+7th & Water St SW / SW Waterfront,Leave,5,AFTERNOON,38.878925,-77.024016
+7th & Water St SW / SW Waterfront,Leave,1,NIGHT,38.878925,-77.024016
+18th St & Pennsylvania Ave NW,Leave,3,LATENIGHT,38.89968,-77.041539
+18th St & Pennsylvania Ave NW,Leave,22,EVENING,38.89968,-77.041539
+18th St & Pennsylvania Ave NW,Leave,3,LATEMORN,38.89968,-77.041539
+18th St & Pennsylvania Ave NW,Leave,12,AFTERNOON,38.89968,-77.041539
+18th St & Pennsylvania Ave NW,Leave,5,NIGHT,38.89968,-77.041539
+19th St & Constitution Ave NW,Leave,28,EVENING,38.8923,-77.0436
+19th St & Constitution Ave NW,Leave,4,LATEMORN,38.8923,-77.0436
+19th St & Constitution Ave NW,Leave,13,AFTERNOON,38.8923,-77.0436
+19th St & Constitution Ave NW,Leave,3,NIGHT,38.8923,-77.0436
+18th & M St NW,Leave,5,LATENIGHT,38.904742,-77.041606
+18th & M St NW,Leave,22,EVENING,38.904742,-77.041606
+18th & M St NW,Leave,2,LATEMORN,38.904742,-77.041606
+18th & M St NW,Leave,11,AFTERNOON,38.904742,-77.041606
+18th & M St NW,Leave,10,NIGHT,38.904742,-77.041606
+Harvard St & Adams Mill Rd NW,Leave,3,EVENING,38.927872,-77.043358
+Harvard St & Adams Mill Rd NW,Leave,7,LATEMORN,38.927872,-77.043358
+Harvard St & Adams Mill Rd NW,Leave,7,AFTERNOON,38.927872,-77.043358
+Harvard St & Adams Mill Rd NW,Leave,1,NIGHT,38.927872,-77.043358
+Benning Branch Library,Leave,1,AFTERNOON,38.894,-76.947974
+S Joyce & Army Navy Dr,Leave,3,EVENING,38.8637,-77.0633
+S Joyce & Army Navy Dr,Leave,2,LATEMORN,38.8637,-77.0633
+14th & R St NW,Leave,14,EVENING,38.912682,-77.031681
+14th & R St NW,Leave,4,EARLYMORN,38.912682,-77.031681
+14th & R St NW,Leave,5,LATENIGHT,38.912682,-77.031681
+14th & R St NW,Leave,20,LATEMORN,38.912682,-77.031681
+14th & R St NW,Leave,16,AFTERNOON,38.912682,-77.031681
+14th & R St NW,Leave,11,NIGHT,38.912682,-77.031681
+Arlington Blvd & N Queen St,Leave,1,EVENING,38.889365,-77.077294
+Arlington Blvd & N Queen St,Leave,4,LATEMORN,38.889365,-77.077294
+Georgetown Harbor / 30th St NW,Leave,13,EVENING,38.9022212,-77.059219
+Georgetown Harbor / 30th St NW,Leave,17,AFTERNOON,38.9022212,-77.059219
+Georgetown Harbor / 30th St NW,Leave,1,NIGHT,38.9022212,-77.059219
+D St & Maryland Ave NE,Leave,6,EARLYMORN,38.894758,-76.997114
+D St & Maryland Ave NE,Leave,15,EVENING,38.894758,-76.997114
+D St & Maryland Ave NE,Leave,26,LATEMORN,38.894758,-76.997114
+D St & Maryland Ave NE,Leave,7,AFTERNOON,38.894758,-76.997114
+D St & Maryland Ave NE,Leave,4,NIGHT,38.894758,-76.997114
+Georgia Ave and Fairmont St NW,Leave,9,EVENING,38.9249,-77.0222
+Georgia Ave and Fairmont St NW,Leave,10,LATEMORN,38.9249,-77.0222
+Georgia Ave and Fairmont St NW,Leave,4,AFTERNOON,38.9249,-77.0222
+Georgia Ave and Fairmont St NW,Leave,2,NIGHT,38.9249,-77.0222
+10th & U St NW,Leave,15,EVENING,38.9172,-77.0259
+10th & U St NW,Leave,1,EARLYMORN,38.9172,-77.0259
+10th & U St NW,Leave,7,LATENIGHT,38.9172,-77.0259
+10th & U St NW,Leave,13,LATEMORN,38.9172,-77.0259
+10th & U St NW,Leave,6,AFTERNOON,38.9172,-77.0259
+10th & U St NW,Leave,14,NIGHT,38.9172,-77.0259
+17th & K St NW / Farragut Square,Leave,4,LATENIGHT,38.902061,-77.038322
+17th & K St NW / Farragut Square,Leave,17,EVENING,38.902061,-77.038322
+17th & K St NW / Farragut Square,Leave,5,LATEMORN,38.902061,-77.038322
+17th & K St NW / Farragut Square,Leave,10,AFTERNOON,38.902061,-77.038322
+17th & K St NW / Farragut Square,Leave,7,NIGHT,38.902061,-77.038322
+25th St & Pennsylvania Ave NW,Leave,3,EARLYMORN,38.903827,-77.053485
+25th St & Pennsylvania Ave NW,Leave,16,EVENING,38.903827,-77.053485
+25th St & Pennsylvania Ave NW,Leave,20,LATEMORN,38.903827,-77.053485
+25th St & Pennsylvania Ave NW,Leave,12,AFTERNOON,38.903827,-77.053485
+25th St & Pennsylvania Ave NW,Leave,10,NIGHT,38.903827,-77.053485
+14th & Harvard St NW,Leave,16,EVENING,38.9268,-77.0322
+14th & Harvard St NW,Leave,1,EARLYMORN,38.9268,-77.0322
+14th & Harvard St NW,Leave,3,LATENIGHT,38.9268,-77.0322
+14th & Harvard St NW,Leave,18,LATEMORN,38.9268,-77.0322
+14th & Harvard St NW,Leave,10,AFTERNOON,38.9268,-77.0322
+14th & Harvard St NW,Leave,15,NIGHT,38.9268,-77.0322
+Clarendon Blvd & Pierce St,Leave,4,EVENING,38.893648,-77.076701
+Clarendon Blvd & Pierce St,Leave,5,LATEMORN,38.893648,-77.076701
+Clarendon Blvd & Pierce St,Leave,2,AFTERNOON,38.893648,-77.076701
+Clarendon Blvd & Pierce St,Leave,2,NIGHT,38.893648,-77.076701
+Lynn & 19th St North,Leave,10,LATEMORN,38.897315,-77.070993
+Lynn & 19th St North,Leave,12,EVENING,38.897315,-77.070993
+Lynn & 19th St North,Leave,2,EARLYMORN,38.897315,-77.070993
+Lynn & 19th St North,Leave,5,AFTERNOON,38.897315,-77.070993
+Lynn & 19th St North,Leave,8,NIGHT,38.897315,-77.070993
+5th St & K St NW,Leave,16,EVENING,38.90304,-77.019027
+5th St & K St NW,Leave,3,EARLYMORN,38.90304,-77.019027
+5th St & K St NW,Leave,2,LATENIGHT,38.90304,-77.019027
+5th St & K St NW,Leave,14,LATEMORN,38.90304,-77.019027
+5th St & K St NW,Leave,12,AFTERNOON,38.90304,-77.019027
+5th St & K St NW,Leave,27,NIGHT,38.90304,-77.019027
+Pentagon City Metro / 12th & Hayes St,Leave,1,LATEMORN,38.862179,-77.059986
+Pentagon City Metro / 12th & Hayes St,Leave,4,NIGHT,38.862179,-77.059986
+Pentagon City Metro / 12th & Hayes St,Leave,3,EVENING,38.862179,-77.059986
+Pentagon City Metro / 12th & Hayes St,Leave,1,LATENIGHT,38.862179,-77.059986
+Lincoln Memorial,Leave,1,LATENIGHT,38.888251,-77.049426
+Lincoln Memorial,Leave,20,EVENING,38.888251,-77.049426
+Lincoln Memorial,Leave,1,LATEMORN,38.888251,-77.049426
+Lincoln Memorial,Leave,30,AFTERNOON,38.888251,-77.049426
+Lincoln Memorial,Leave,5,NIGHT,38.888251,-77.049426
+Market Square / King St & Royal St,Leave,1,EARLYMORN,38.804718,-77.043363
+Market Square / King St & Royal St,Leave,2,EVENING,38.804718,-77.043363
+Market Square / King St & Royal St,Leave,1,LATEMORN,38.804718,-77.043363
+Market Square / King St & Royal St,Leave,4,AFTERNOON,38.804718,-77.043363
+Market Square / King St & Royal St,Leave,1,NIGHT,38.804718,-77.043363
+N Quincy St & Glebe Rd,Leave,3,EARLYMORN,38.876393,-77.107735
+N Quincy St & Glebe Rd,Leave,5,EVENING,38.876393,-77.107735
+N Quincy St & Glebe Rd,Leave,2,LATEMORN,38.876393,-77.107735
+N Quincy St & Glebe Rd,Leave,1,NIGHT,38.876393,-77.107735
+Gallaudet / 8th St & Florida Ave NE,Leave,9,EVENING,38.90509,-76.9941
+Gallaudet / 8th St & Florida Ave NE,Leave,6,LATEMORN,38.90509,-76.9941
+Gallaudet / 8th St & Florida Ave NE,Leave,1,AFTERNOON,38.90509,-76.9941
+Gallaudet / 8th St & Florida Ave NE,Leave,2,NIGHT,38.90509,-76.9941
+L'Enfant Plaza / 7th & C St SW,Leave,4,EARLYMORN,38.886266,-77.022241
+L'Enfant Plaza / 7th & C St SW,Leave,25,EVENING,38.886266,-77.022241
+L'Enfant Plaza / 7th & C St SW,Leave,8,LATEMORN,38.886266,-77.022241
+L'Enfant Plaza / 7th & C St SW,Leave,9,AFTERNOON,38.886266,-77.022241
+L'Enfant Plaza / 7th & C St SW,Leave,3,NIGHT,38.886266,-77.022241
+17th & Rhode Island Ave NW,Leave,21,EVENING,38.906602,-77.038785
+17th & Rhode Island Ave NW,Leave,4,EARLYMORN,38.906602,-77.038785
+17th & Rhode Island Ave NW,Leave,2,LATENIGHT,38.906602,-77.038785
+17th & Rhode Island Ave NW,Leave,22,LATEMORN,38.906602,-77.038785
+17th & Rhode Island Ave NW,Leave,16,AFTERNOON,38.906602,-77.038785
+17th & Rhode Island Ave NW,Leave,13,NIGHT,38.906602,-77.038785
+Kennedy Center,Leave,1,EVENING,38.895184,-77.054845
+Kennedy Center,Leave,2,LATEMORN,38.895184,-77.054845
+Kennedy Center,Leave,7,AFTERNOON,38.895184,-77.054845
+34th St & Wisconsin Ave NW,Leave,17,EVENING,38.916442,-77.0682
+34th St & Wisconsin Ave NW,Leave,5,LATEMORN,38.916442,-77.0682
+34th St & Wisconsin Ave NW,Leave,8,AFTERNOON,38.916442,-77.0682
+34th St & Wisconsin Ave NW,Leave,2,NIGHT,38.916442,-77.0682
+Rosslyn Metro / Wilson Blvd & Ft Myer Dr,Leave,4,LATEMORN,38.8946,-77.072305
+Rosslyn Metro / Wilson Blvd & Ft Myer Dr,Leave,11,EVENING,38.8946,-77.072305
+Rosslyn Metro / Wilson Blvd & Ft Myer Dr,Leave,2,EARLYMORN,38.8946,-77.072305
+Rosslyn Metro / Wilson Blvd & Ft Myer Dr,Leave,4,AFTERNOON,38.8946,-77.072305
+Rosslyn Metro / Wilson Blvd & Ft Myer Dr,Leave,3,NIGHT,38.8946,-77.072305
+N Veitch & Key Blvd,Leave,1,EVENING,38.893241,-77.086045
+N Veitch & Key Blvd,Leave,5,LATEMORN,38.893241,-77.086045
+King St Metro,Leave,6,LATEMORN,38.805767,-77.06072
+King St Metro,Leave,1,AFTERNOON,38.805767,-77.06072
+King St Metro,Leave,3,NIGHT,38.805767,-77.06072
+19th & East Capitol St SE,Leave,1,LATEMORN,38.8896,-76.9769
+19th & East Capitol St SE,Leave,2,EVENING,38.8896,-76.9769
+19th & East Capitol St SE,Leave,1,EARLYMORN,38.8896,-76.9769
+19th & East Capitol St SE,Leave,6,AFTERNOON,38.8896,-76.9769
+19th & East Capitol St SE,Leave,4,NIGHT,38.8896,-76.9769
+8th & Eye St SE / Barracks Row,Leave,4,EVENING,38.8792,-76.9953
+8th & Eye St SE / Barracks Row,Leave,1,LATEMORN,38.8792,-76.9953
+8th & Eye St SE / Barracks Row,Leave,7,AFTERNOON,38.8792,-76.9953
+8th & Eye St SE / Barracks Row,Leave,2,NIGHT,38.8792,-76.9953
+M St & New Jersey Ave SE,Leave,1,EARLYMORN,38.8763,-77.0037
+M St & New Jersey Ave SE,Leave,8,EVENING,38.8763,-77.0037
+M St & New Jersey Ave SE,Leave,1,LATEMORN,38.8763,-77.0037
+M St & New Jersey Ave SE,Leave,4,AFTERNOON,38.8763,-77.0037
+M St & New Jersey Ave SE,Leave,2,NIGHT,38.8763,-77.0037
+Fairfax Dr & Glebe Rd,Leave,4,EVENING,38.882281,-77.115449
+Fairfax Dr & Glebe Rd,Leave,1,LATEMORN,38.882281,-77.115449
+Fairfax Dr & Glebe Rd,Leave,1,AFTERNOON,38.882281,-77.115449
+21st & M St NW,Leave,25,EVENING,38.9054,-77.0471
+21st & M St NW,Leave,1,EARLYMORN,38.9054,-77.0471
+21st & M St NW,Leave,1,LATENIGHT,38.9054,-77.0471
+21st & M St NW,Leave,13,LATEMORN,38.9054,-77.0471
+21st & M St NW,Leave,20,AFTERNOON,38.9054,-77.0471
+21st & M St NW,Leave,5,NIGHT,38.9054,-77.0471
+19th & L St NW,Leave,26,EVENING,38.903407,-77.043648
+19th & L St NW,Leave,2,EARLYMORN,38.903407,-77.043648
+19th & L St NW,Leave,4,LATENIGHT,38.903407,-77.043648
+19th & L St NW,Leave,3,LATEMORN,38.903407,-77.043648
+19th & L St NW,Leave,9,AFTERNOON,38.903407,-77.043648
+19th & L St NW,Leave,8,NIGHT,38.903407,-77.043648
+Court House Metro / Wilson Blvd & N Uhle St,Leave,1,LATENIGHT,38.891696,-77.0846
+Court House Metro / Wilson Blvd & N Uhle St,Leave,10,EVENING,38.891696,-77.0846
+Court House Metro / Wilson Blvd & N Uhle St,Leave,10,LATEMORN,38.891696,-77.0846
+Court House Metro / Wilson Blvd & N Uhle St,Leave,7,AFTERNOON,38.891696,-77.0846
+Court House Metro / Wilson Blvd & N Uhle St,Leave,7,NIGHT,38.891696,-77.0846
+Eastern Market Metro / Pennsylvania Ave & 7th St SE,Leave,14,NIGHT,38.884,-76.995397
+Eastern Market Metro / Pennsylvania Ave & 7th St SE,Leave,28,EVENING,38.884,-76.995397
+Eastern Market Metro / Pennsylvania Ave & 7th St SE,Leave,20,LATEMORN,38.884,-76.995397
+Eastern Market Metro / Pennsylvania Ave & 7th St SE,Leave,37,AFTERNOON,38.884,-76.995397
+Eastern Market Metro / Pennsylvania Ave & 7th St SE,Leave,5,LATENIGHT,38.884,-76.995397
+Jefferson Dr & 14th St SW,Leave,23,EVENING,38.888553,-77.032429
+Jefferson Dr & 14th St SW,Leave,5,LATEMORN,38.888553,-77.032429
+Jefferson Dr & 14th St SW,Leave,28,AFTERNOON,38.888553,-77.032429
+14th St & Spring Rd NW,Leave,1,LATENIGHT,38.9375,-77.0328
+14th St & Spring Rd NW,Leave,9,LATEMORN,38.9375,-77.0328
+14th St & Spring Rd NW,Leave,6,AFTERNOON,38.9375,-77.0328
+14th St & Spring Rd NW,Leave,2,EVENING,38.9375,-77.0328
+14th St & Spring Rd NW,Leave,6,NIGHT,38.9375,-77.0328
+Van Ness Metro / UDC,Leave,12,EVENING,38.944551,-77.063896
+Van Ness Metro / UDC,Leave,1,EARLYMORN,38.944551,-77.063896
+Van Ness Metro / UDC,Leave,1,LATENIGHT,38.944551,-77.063896
+Van Ness Metro / UDC,Leave,12,LATEMORN,38.944551,-77.063896
+Van Ness Metro / UDC,Leave,1,AFTERNOON,38.944551,-77.063896
+Van Ness Metro / UDC,Leave,4,NIGHT,38.944551,-77.063896
+Braddock Rd Metro,Leave,4,LATEMORN,38.814577,-77.052808
+Braddock Rd Metro,Leave,1,AFTERNOON,38.814577,-77.052808
+13th & H St NE,Leave,5,EVENING,38.9003,-76.9882
+13th & H St NE,Leave,2,EARLYMORN,38.9003,-76.9882
+13th & H St NE,Leave,9,LATENIGHT,38.9003,-76.9882
+13th & H St NE,Leave,10,LATEMORN,38.9003,-76.9882
+13th & H St NE,Leave,8,AFTERNOON,38.9003,-76.9882
+13th & H St NE,Leave,2,NIGHT,38.9003,-76.9882
+Glebe Rd & 11th St N,Leave,2,EVENING,38.883921,-77.116817
+Glebe Rd & 11th St N,Leave,2,LATEMORN,38.883921,-77.116817
+Glebe Rd & 11th St N,Leave,2,AFTERNOON,38.883921,-77.116817
+Columbus Circle / Union Station,Leave,53,EVENING,38.89696,-77.00493
+Columbus Circle / Union Station,Leave,6,EARLYMORN,38.89696,-77.00493
+Columbus Circle / Union Station,Leave,7,LATENIGHT,38.89696,-77.00493
+Columbus Circle / Union Station,Leave,35,LATEMORN,38.89696,-77.00493
+Columbus Circle / Union Station,Leave,17,AFTERNOON,38.89696,-77.00493
+Columbus Circle / Union Station,Leave,19,NIGHT,38.89696,-77.00493
+11th & Kenyon St NW,Leave,9,EVENING,38.929464,-77.027822
+11th & Kenyon St NW,Leave,2,EARLYMORN,38.929464,-77.027822
+11th & Kenyon St NW,Leave,4,LATENIGHT,38.929464,-77.027822
+11th & Kenyon St NW,Leave,19,LATEMORN,38.929464,-77.027822
+11th & Kenyon St NW,Leave,8,AFTERNOON,38.929464,-77.027822
+11th & Kenyon St NW,Leave,8,NIGHT,38.929464,-77.027822
+11th & H St NE,Leave,8,EVENING,38.899983,-76.991383
+11th & H St NE,Leave,5,EARLYMORN,38.899983,-76.991383
+11th & H St NE,Leave,2,LATENIGHT,38.899983,-76.991383
+11th & H St NE,Leave,7,LATEMORN,38.899983,-76.991383
+11th & H St NE,Leave,5,AFTERNOON,38.899983,-76.991383
+11th & H St NE,Leave,2,NIGHT,38.899983,-76.991383
+Calvert St & Woodley Pl NW,Leave,17,EVENING,38.9236,-77.0501
+Calvert St & Woodley Pl NW,Leave,2,EARLYMORN,38.9236,-77.0501
+Calvert St & Woodley Pl NW,Leave,1,LATENIGHT,38.9236,-77.0501
+Calvert St & Woodley Pl NW,Leave,19,LATEMORN,38.9236,-77.0501
+Calvert St & Woodley Pl NW,Leave,12,AFTERNOON,38.9236,-77.0501
+Calvert St & Woodley Pl NW,Leave,14,NIGHT,38.9236,-77.0501
+Convention Center / 7th & M St NW,Leave,27,EVENING,38.90572,-77.022264
+Convention Center / 7th & M St NW,Leave,2,EARLYMORN,38.90572,-77.022264
+Convention Center / 7th & M St NW,Leave,1,LATENIGHT,38.90572,-77.022264
+Convention Center / 7th & M St NW,Leave,9,LATEMORN,38.90572,-77.022264
+Convention Center / 7th & M St NW,Leave,11,AFTERNOON,38.90572,-77.022264
+Convention Center / 7th & M St NW,Leave,13,NIGHT,38.90572,-77.022264
+8th & F St NW / National Portrait Gallery,Leave,29,EVENING,38.897003,-77.022996
+8th & F St NW / National Portrait Gallery,Leave,1,EARLYMORN,38.897003,-77.022996
+8th & F St NW / National Portrait Gallery,Leave,1,LATENIGHT,38.897003,-77.022996
+8th & F St NW / National Portrait Gallery,Leave,13,LATEMORN,38.897003,-77.022996
+8th & F St NW / National Portrait Gallery,Leave,16,AFTERNOON,38.897003,-77.022996
+8th & F St NW / National Portrait Gallery,Leave,23,NIGHT,38.897003,-77.022996
+12th & Newton St NE,Leave,1,EARLYMORN,38.933668,-76.991016
+12th & Newton St NE,Leave,6,AFTERNOON,38.933668,-76.991016
+14th St Heights / 14th & Crittenden St NW,Leave,2,EARLYMORN,38.947774,-77.032818
+14th St Heights / 14th & Crittenden St NW,Leave,2,EVENING,38.947774,-77.032818
+14th St Heights / 14th & Crittenden St NW,Leave,7,LATEMORN,38.947774,-77.032818
+14th St Heights / 14th & Crittenden St NW,Leave,2,AFTERNOON,38.947774,-77.032818
+John McCormack Dr & Michigan Ave NE,Leave,1,EVENING,38.9346,-76.9955
+John McCormack Dr & Michigan Ave NE,Leave,2,LATEMORN,38.9346,-76.9955
+Idaho Ave & Newark St NW [on 2nd District patio],Leave,6,EVENING,38.934751,-77.074647
+Idaho Ave & Newark St NW [on 2nd District patio],Leave,10,LATEMORN,38.934751,-77.074647
+Idaho Ave & Newark St NW [on 2nd District patio],Leave,11,AFTERNOON,38.934751,-77.074647
+Idaho Ave & Newark St NW [on 2nd District patio],Leave,4,NIGHT,38.934751,-77.074647
+Benning Rd & East Capitol St NE / Benning Rd Metro,Leave,1,EARLYMORN,38.889935,-76.93723
+Wilson Blvd & Franklin Rd,Leave,1,EVENING,38.8904,-77.0889
+Wilson Blvd & Franklin Rd,Leave,2,NIGHT,38.8904,-77.0889
+20th & E St NW,Leave,5,NIGHT,38.8963,-77.045
+20th & E St NW,Leave,21,EVENING,38.8963,-77.045
+20th & E St NW,Leave,12,LATEMORN,38.8963,-77.045
+20th & E St NW,Leave,8,AFTERNOON,38.8963,-77.045
+20th & E St NW,Leave,1,LATENIGHT,38.8963,-77.045
+20th & O St NW / Dupont South,Leave,1,EARLYMORN,38.908905,-77.04478
+20th & O St NW / Dupont South,Leave,18,EVENING,38.908905,-77.04478
+20th & O St NW / Dupont South,Leave,13,LATEMORN,38.908905,-77.04478
+20th & O St NW / Dupont South,Leave,12,AFTERNOON,38.908905,-77.04478
+20th & O St NW / Dupont South,Leave,21,NIGHT,38.908905,-77.04478
+20th & Bell St,Leave,1,EARLYMORN,38.8561,-77.0512
+20th & Bell St,Leave,2,AFTERNOON,38.8561,-77.0512
+24th & N St NW,Leave,1,LATENIGHT,38.9066,-77.05152
+24th & N St NW,Leave,7,EVENING,38.9066,-77.05152
+24th & N St NW,Leave,8,LATEMORN,38.9066,-77.05152
+24th & N St NW,Leave,3,AFTERNOON,38.9066,-77.05152
+24th & N St NW,Leave,6,NIGHT,38.9066,-77.05152
+21st & I St NW,Leave,3,AFTERNOON,38.9008,-77.047
+21st & I St NW,Leave,24,EVENING,38.9008,-77.047
+21st & I St NW,Leave,4,LATEMORN,38.9008,-77.047
+21st & I St NW,Leave,1,LATENIGHT,38.9008,-77.047
+21st & I St NW,Leave,17,NIGHT,38.9008,-77.047
+Prince St & Union St,Leave,1,EVENING,38.803124,-77.040363
+Columbia Rd & Georgia Ave NW,Leave,7,EVENING,38.928156,-77.02344
+Columbia Rd & Georgia Ave NW,Leave,1,EARLYMORN,38.928156,-77.02344
+Columbia Rd & Georgia Ave NW,Leave,1,LATENIGHT,38.928156,-77.02344
+Columbia Rd & Georgia Ave NW,Leave,7,LATEMORN,38.928156,-77.02344
+Columbia Rd & Georgia Ave NW,Leave,4,AFTERNOON,38.928156,-77.02344
+Columbia Rd & Georgia Ave NW,Leave,12,NIGHT,38.928156,-77.02344
+Clarendon Metro / Wilson Blvd & N Highland St,Leave,1,EARLYMORN,38.88786,-77.094875
+Clarendon Metro / Wilson Blvd & N Highland St,Leave,4,EVENING,38.88786,-77.094875
+Clarendon Metro / Wilson Blvd & N Highland St,Leave,3,LATEMORN,38.88786,-77.094875
+Clarendon Metro / Wilson Blvd & N Highland St,Leave,3,AFTERNOON,38.88786,-77.094875
+Clarendon Metro / Wilson Blvd & N Highland St,Leave,7,NIGHT,38.88786,-77.094875
+39th & Calvert St NW / Stoddert,Leave,3,EARLYMORN,38.922649,-77.077271
+39th & Calvert St NW / Stoddert,Leave,4,EVENING,38.922649,-77.077271
+39th & Calvert St NW / Stoddert,Leave,15,LATEMORN,38.922649,-77.077271
+39th & Calvert St NW / Stoddert,Leave,6,AFTERNOON,38.922649,-77.077271
+Fairfax Village,Leave,1,EVENING,38.86559,-76.952103
+Fairfax Village,Leave,1,AFTERNOON,38.86559,-76.952103
+15th & K St NW,Leave,1,LATENIGHT,38.902,-77.03353
+15th & K St NW,Leave,22,EVENING,38.902,-77.03353
+15th & K St NW,Leave,1,LATEMORN,38.902,-77.03353
+15th & K St NW,Leave,7,AFTERNOON,38.902,-77.03353
+15th & K St NW,Leave,9,NIGHT,38.902,-77.03353
+7th & R St NW / Shaw Library,Leave,11,EVENING,38.912719,-77.022155
+7th & R St NW / Shaw Library,Leave,2,EARLYMORN,38.912719,-77.022155
+7th & R St NW / Shaw Library,Leave,4,LATENIGHT,38.912719,-77.022155
+7th & R St NW / Shaw Library,Leave,17,LATEMORN,38.912719,-77.022155
+7th & R St NW / Shaw Library,Leave,16,AFTERNOON,38.912719,-77.022155
+7th & R St NW / Shaw Library,Leave,10,NIGHT,38.912719,-77.022155
+13th St & New York Ave NW,Leave,25,EVENING,38.900283,-77.029822
+13th St & New York Ave NW,Leave,1,EARLYMORN,38.900283,-77.029822
+13th St & New York Ave NW,Leave,1,LATENIGHT,38.900283,-77.029822
+13th St & New York Ave NW,Leave,3,LATEMORN,38.900283,-77.029822
+13th St & New York Ave NW,Leave,9,AFTERNOON,38.900283,-77.029822
+13th St & New York Ave NW,Leave,11,NIGHT,38.900283,-77.029822
+North Capitol St & F St NW,Leave,27,EVENING,38.897446,-77.009888
+North Capitol St & F St NW,Leave,3,EARLYMORN,38.897446,-77.009888
+North Capitol St & F St NW,Leave,3,LATENIGHT,38.897446,-77.009888
+North Capitol St & F St NW,Leave,26,LATEMORN,38.897446,-77.009888
+North Capitol St & F St NW,Leave,6,AFTERNOON,38.897446,-77.009888
+North Capitol St & F St NW,Leave,14,NIGHT,38.897446,-77.009888
+21st St & Pennsylvania Ave NW,Leave,9,EVENING,38.901539,-77.046564
+21st St & Pennsylvania Ave NW,Leave,4,LATEMORN,38.901539,-77.046564
+21st St & Pennsylvania Ave NW,Leave,8,AFTERNOON,38.901539,-77.046564
+21st St & Pennsylvania Ave NW,Leave,8,NIGHT,38.901539,-77.046564
+16th & Harvard St NW,Leave,15,EVENING,38.926088,-77.036536
+16th & Harvard St NW,Leave,7,EARLYMORN,38.926088,-77.036536
+16th & Harvard St NW,Leave,3,LATENIGHT,38.926088,-77.036536
+16th & Harvard St NW,Leave,22,LATEMORN,38.926088,-77.036536
+16th & Harvard St NW,Leave,15,AFTERNOON,38.926088,-77.036536
+16th & Harvard St NW,Leave,19,NIGHT,38.926088,-77.036536
+14th & V St NW,Leave,13,EVENING,38.9176,-77.0321
+14th & V St NW,Leave,7,EARLYMORN,38.9176,-77.0321
+14th & V St NW,Leave,12,LATENIGHT,38.9176,-77.0321
+14th & V St NW,Leave,22,LATEMORN,38.9176,-77.0321
+14th & V St NW,Leave,21,AFTERNOON,38.9176,-77.0321
+14th & V St NW,Leave,12,NIGHT,38.9176,-77.0321
+1st & M St NE,Leave,26,EVENING,38.9057,-77.0056
+1st & M St NE,Leave,9,LATEMORN,38.9057,-77.0056
+1st & M St NE,Leave,11,AFTERNOON,38.9057,-77.0056
+1st & M St NE,Leave,6,NIGHT,38.9057,-77.0056
+Key Blvd & N Quinn St,Leave,1,EVENING,38.896015,-77.078107
+Key Blvd & N Quinn St,Leave,3,LATEMORN,38.896015,-77.078107
+Key Blvd & N Quinn St,Leave,3,AFTERNOON,38.896015,-77.078107
+Key Blvd & N Quinn St,Leave,1,NIGHT,38.896015,-77.078107
+6th & H St NE,Leave,4,NIGHT,38.900384,-76.99831
+6th & H St NE,Leave,6,LATEMORN,38.900384,-76.99831
+6th & H St NE,Leave,7,AFTERNOON,38.900384,-76.99831
+6th & H St NE,Leave,3,EVENING,38.900384,-76.99831
+6th & H St NE,Leave,1,LATENIGHT,38.900384,-76.99831
+5th & F St NW,Leave,35,EVENING,38.897222,-77.019347
+5th & F St NW,Leave,4,LATEMORN,38.897222,-77.019347
+5th & F St NW,Leave,11,AFTERNOON,38.897222,-77.019347
+5th & F St NW,Leave,6,NIGHT,38.897222,-77.019347
+4th & M St SW,Leave,15,EVENING,38.8767,-77.0178
+4th & M St SW,Leave,1,EARLYMORN,38.8767,-77.0178
+4th & M St SW,Leave,3,LATENIGHT,38.8767,-77.0178
+4th & M St SW,Leave,11,LATEMORN,38.8767,-77.0178
+4th & M St SW,Leave,8,AFTERNOON,38.8767,-77.0178
+4th & M St SW,Leave,10,NIGHT,38.8767,-77.0178
+Branch & Pennsylvania Ave SE,Leave,1,EVENING,38.8692,-76.9599
+19th & E Street NW,Leave,17,EVENING,38.8952,-77.0436
+19th & E Street NW,Leave,1,LATEMORN,38.8952,-77.0436
+19th & E Street NW,Leave,1,AFTERNOON,38.8952,-77.0436
+19th & E Street NW,Leave,5,NIGHT,38.8952,-77.0436
+Crystal City Metro / 18th & Bell St,Leave,9,EVENING,38.8573,-77.0511
+Crystal City Metro / 18th & Bell St,Leave,2,EARLYMORN,38.8573,-77.0511
+Crystal City Metro / 18th & Bell St,Leave,2,LATENIGHT,38.8573,-77.0511
+Crystal City Metro / 18th & Bell St,Leave,7,LATEMORN,38.8573,-77.0511
+Crystal City Metro / 18th & Bell St,Leave,3,AFTERNOON,38.8573,-77.0511
+Crystal City Metro / 18th & Bell St,Leave,7,NIGHT,38.8573,-77.0511
+Henry St & Pendleton St,Leave,2,EVENING,38.811456,-77.050276
+Henry St & Pendleton St,Leave,1,NIGHT,38.811456,-77.050276
+M St & Pennsylvania Ave NW,Leave,5,NIGHT,38.905126,-77.056887
+M St & Pennsylvania Ave NW,Leave,15,EVENING,38.905126,-77.056887
+M St & Pennsylvania Ave NW,Leave,11,LATEMORN,38.905126,-77.056887
+M St & Pennsylvania Ave NW,Leave,19,AFTERNOON,38.905126,-77.056887
+M St & Pennsylvania Ave NW,Leave,3,LATENIGHT,38.905126,-77.056887
+14th & Rhode Island Ave NW,Leave,14,EVENING,38.9086,-77.0323
+14th & Rhode Island Ave NW,Leave,4,EARLYMORN,38.9086,-77.0323
+14th & Rhode Island Ave NW,Leave,3,LATENIGHT,38.9086,-77.0323
+14th & Rhode Island Ave NW,Leave,22,LATEMORN,38.9086,-77.0323
+14th & Rhode Island Ave NW,Leave,10,AFTERNOON,38.9086,-77.0323
+14th & Rhode Island Ave NW,Leave,8,NIGHT,38.9086,-77.0323
+Maryland & Independence Ave SW,Leave,3,LATEMORN,38.887299,-77.018939
+Maryland & Independence Ave SW,Leave,29,EVENING,38.887299,-77.018939
+Maryland & Independence Ave SW,Leave,2,EARLYMORN,38.887299,-77.018939
+Maryland & Independence Ave SW,Leave,17,AFTERNOON,38.887299,-77.018939
+Maryland & Independence Ave SW,Leave,5,NIGHT,38.887299,-77.018939
+3rd & H St NE,Leave,17,EVENING,38.900017,-77.001967
+3rd & H St NE,Leave,3,EARLYMORN,38.900017,-77.001967
+3rd & H St NE,Leave,3,LATENIGHT,38.900017,-77.001967
+3rd & H St NE,Leave,22,LATEMORN,38.900017,-77.001967
+3rd & H St NE,Leave,7,AFTERNOON,38.900017,-77.001967
+3rd & H St NE,Leave,11,NIGHT,38.900017,-77.001967
+12th & Army Navy Dr,Leave,4,AFTERNOON,38.8629,-77.0528
+12th & Army Navy Dr,Leave,2,NIGHT,38.8629,-77.0528
+20th & L St NW,Leave,1,LATENIGHT,38.903584,-77.044789
+20th & L St NW,Leave,9,EVENING,38.903584,-77.044789
+20th & L St NW,Leave,4,LATEMORN,38.903584,-77.044789
+20th & L St NW,Leave,3,AFTERNOON,38.903584,-77.044789
+20th & L St NW,Leave,10,NIGHT,38.903584,-77.044789
+Good Hope Rd & MLK Ave SE,Leave,3,EVENING,38.867373,-76.988039
+Good Hope Rd & MLK Ave SE,Leave,2,LATEMORN,38.867373,-76.988039
+Virginia Square Metro / N Monroe St & 9th St N,Leave,1,EARLYMORN,38.882788,-77.103148
+Virginia Square Metro / N Monroe St & 9th St N,Leave,1,EVENING,38.882788,-77.103148
+Virginia Square Metro / N Monroe St & 9th St N,Leave,5,LATEMORN,38.882788,-77.103148
+Virginia Square Metro / N Monroe St & 9th St N,Leave,5,AFTERNOON,38.882788,-77.103148
+Virginia Square Metro / N Monroe St & 9th St N,Leave,1,LATENIGHT,38.882788,-77.103148
+Georgia & New Hampshire Ave NW,Leave,9,EVENING,38.936043,-77.024649
+Georgia & New Hampshire Ave NW,Leave,1,EARLYMORN,38.936043,-77.024649
+Georgia & New Hampshire Ave NW,Leave,4,LATENIGHT,38.936043,-77.024649
+Georgia & New Hampshire Ave NW,Leave,19,LATEMORN,38.936043,-77.024649
+Georgia & New Hampshire Ave NW,Leave,4,AFTERNOON,38.936043,-77.024649
+Georgia & New Hampshire Ave NW,Leave,5,NIGHT,38.936043,-77.024649
+California St & Florida Ave NW,Leave,10,EVENING,38.917761,-77.04062
+California St & Florida Ave NW,Leave,2,EARLYMORN,38.917761,-77.04062
+California St & Florida Ave NW,Leave,5,LATENIGHT,38.917761,-77.04062
+California St & Florida Ave NW,Leave,23,LATEMORN,38.917761,-77.04062
+California St & Florida Ave NW,Leave,12,AFTERNOON,38.917761,-77.04062
+California St & Florida Ave NW,Leave,10,NIGHT,38.917761,-77.04062
+15th & N Scott St,Leave,1,EVENING,38.89054,-77.08095
+15th & N Scott St,Leave,1,EARLYMORN,38.89054,-77.08095
+15th & N Scott St,Leave,6,AFTERNOON,38.89054,-77.08095
+15th & N Scott St,Leave,2,NIGHT,38.89054,-77.08095
+8th & H St NW,Leave,19,NIGHT,38.8997,-77.023086
+8th & H St NW,Leave,23,EVENING,38.8997,-77.023086
+8th & H St NW,Leave,11,LATEMORN,38.8997,-77.023086
+8th & H St NW,Leave,9,AFTERNOON,38.8997,-77.023086
+8th & H St NW,Leave,2,LATENIGHT,38.8997,-77.023086
+Barton St & 10th St N,Leave,10,LATEMORN,38.884961,-77.08777
+Barton St & 10th St N,Leave,5,AFTERNOON,38.884961,-77.08777
+4th St & Massachusetts Ave NW,Leave,8,NIGHT,38.9003,-77.016
+4th St & Massachusetts Ave NW,Leave,8,LATEMORN,38.9003,-77.016
+4th St & Massachusetts Ave NW,Leave,12,AFTERNOON,38.9003,-77.016
+4th St & Massachusetts Ave NW,Leave,18,EVENING,38.9003,-77.016
+4th St & Massachusetts Ave NW,Leave,2,LATENIGHT,38.9003,-77.016
+17th & Corcoran St NW,Leave,32,EVENING,38.9121,-77.0387
+17th & Corcoran St NW,Leave,5,EARLYMORN,38.9121,-77.0387
+17th & Corcoran St NW,Leave,2,LATENIGHT,38.9121,-77.0387
+17th & Corcoran St NW,Leave,17,LATEMORN,38.9121,-77.0387
+17th & Corcoran St NW,Leave,29,AFTERNOON,38.9121,-77.0387
+17th & Corcoran St NW,Leave,22,NIGHT,38.9121,-77.0387
+N Randolph St & Fairfax Dr,Leave,2,LATEMORN,38.882629,-77.109366
+N Randolph St & Fairfax Dr,Leave,1,AFTERNOON,38.882629,-77.109366
+N Randolph St & Fairfax Dr,Leave,1,LATENIGHT,38.882629,-77.109366
+15th St & Massachusetts Ave SE,Leave,10,EVENING,38.88732,-76.983569
+15th St & Massachusetts Ave SE,Leave,2,EARLYMORN,38.88732,-76.983569
+15th St & Massachusetts Ave SE,Leave,2,LATENIGHT,38.88732,-76.983569
+15th St & Massachusetts Ave SE,Leave,12,LATEMORN,38.88732,-76.983569
+15th St & Massachusetts Ave SE,Leave,12,AFTERNOON,38.88732,-76.983569
+15th St & Massachusetts Ave SE,Leave,3,NIGHT,38.88732,-76.983569
+9th & Upshur St NW,Leave,3,LATEMORN,38.9418,-77.0251
+9th & Upshur St NW,Leave,3,EVENING,38.9418,-77.0251
+9th & Upshur St NW,Leave,1,EARLYMORN,38.9418,-77.0251
+9th & Upshur St NW,Leave,4,AFTERNOON,38.9418,-77.0251
+9th & Upshur St NW,Leave,3,NIGHT,38.9418,-77.0251
+15th & Crystal Dr,Leave,4,EVENING,38.860244,-77.050276
+15th & Crystal Dr,Leave,3,AFTERNOON,38.860244,-77.050276
+N Adams St & Lee Hwy,Leave,4,EVENING,38.89593,-77.089006
+N Adams St & Lee Hwy,Leave,8,LATEMORN,38.89593,-77.089006
+N Adams St & Lee Hwy,Leave,6,AFTERNOON,38.89593,-77.089006
+N Adams St & Lee Hwy,Leave,1,NIGHT,38.89593,-77.089006
+Fairfax Dr & Wilson Blvd,Leave,1,NIGHT,38.885801,-77.097745
+Fairfax Dr & Wilson Blvd,Leave,2,EVENING,38.885801,-77.097745
+Fairfax Dr & Wilson Blvd,Leave,5,LATEMORN,38.885801,-77.097745
+Fairfax Dr & Wilson Blvd,Leave,2,AFTERNOON,38.885801,-77.097745
+Fairfax Dr & Wilson Blvd,Leave,1,LATENIGHT,38.885801,-77.097745
+4th & D St NW / Judiciary Square,Leave,5,LATEMORN,38.895344,-77.016106
+4th & D St NW / Judiciary Square,Leave,19,EVENING,38.895344,-77.016106
+4th & D St NW / Judiciary Square,Leave,1,EARLYMORN,38.895344,-77.016106
+4th & D St NW / Judiciary Square,Leave,6,AFTERNOON,38.895344,-77.016106
+4th & D St NW / Judiciary Square,Leave,1,NIGHT,38.895344,-77.016106
+22nd & I St NW / Foggy Bottom,Leave,1,LATENIGHT,38.90088,-77.048911
+22nd & I St NW / Foggy Bottom,Leave,22,EVENING,38.90088,-77.048911
+22nd & I St NW / Foggy Bottom,Leave,15,LATEMORN,38.90088,-77.048911
+22nd & I St NW / Foggy Bottom,Leave,21,AFTERNOON,38.90088,-77.048911
+22nd & I St NW / Foggy Bottom,Leave,16,NIGHT,38.90088,-77.048911
+26th & Crystal Dr,Leave,5,EVENING,38.8518,-77.0498
+26th & Crystal Dr,Leave,1,AFTERNOON,38.8518,-77.0498
+26th & Crystal Dr,Leave,3,NIGHT,38.8518,-77.0498
+Columbia Rd & Belmont St NW,Leave,11,EVENING,38.920669,-77.04368
+Columbia Rd & Belmont St NW,Leave,1,EARLYMORN,38.920669,-77.04368
+Columbia Rd & Belmont St NW,Leave,2,LATENIGHT,38.920669,-77.04368
+Columbia Rd & Belmont St NW,Leave,25,LATEMORN,38.920669,-77.04368
+Columbia Rd & Belmont St NW,Leave,10,AFTERNOON,38.920669,-77.04368
+Columbia Rd & Belmont St NW,Leave,12,NIGHT,38.920669,-77.04368
+King St & Patrick St,Leave,1,NIGHT,38.805317,-77.049883
+King St & Patrick St,Leave,1,LATEMORN,38.805317,-77.049883
+King St & Patrick St,Leave,3,AFTERNOON,38.805317,-77.049883
+King St & Patrick St,Leave,1,LATENIGHT,38.805317,-77.049883
+George Mason Dr & Wilson Blvd,Leave,1,EVENING,38.87887,-77.1207
+George Mason Dr & Wilson Blvd,Leave,3,LATEMORN,38.87887,-77.1207
+Lamont & Mt Pleasant NW,Leave,6,EVENING,38.9319,-77.0388
+Lamont & Mt Pleasant NW,Leave,4,EARLYMORN,38.9319,-77.0388
+Lamont & Mt Pleasant NW,Leave,1,LATENIGHT,38.9319,-77.0388
+Lamont & Mt Pleasant NW,Leave,23,LATEMORN,38.9319,-77.0388
+Lamont & Mt Pleasant NW,Leave,12,AFTERNOON,38.9319,-77.0388
+Lamont & Mt Pleasant NW,Leave,17,NIGHT,38.9319,-77.0388
+17th & K St NW [formerly 17th & L St NW],Leave,30,EVENING,38.90276,-77.03863
+17th & K St NW [formerly 17th & L St NW],Leave,1,EARLYMORN,38.90276,-77.03863
+17th & K St NW [formerly 17th & L St NW],Leave,3,LATENIGHT,38.90276,-77.03863
+17th & K St NW [formerly 17th & L St NW],Leave,11,LATEMORN,38.90276,-77.03863
+17th & K St NW [formerly 17th & L St NW],Leave,8,AFTERNOON,38.90276,-77.03863
+17th & K St NW [formerly 17th & L St NW],Leave,10,NIGHT,38.90276,-77.03863
+Jefferson Memorial,Leave,2,LATENIGHT,38.879819,-77.037413
+Jefferson Memorial,Leave,20,EVENING,38.879819,-77.037413
+Jefferson Memorial,Leave,10,LATEMORN,38.879819,-77.037413
+Jefferson Memorial,Leave,12,AFTERNOON,38.879819,-77.037413
+Jefferson Memorial,Leave,5,NIGHT,38.879819,-77.037413
+18th & Hayes St,Leave,1,LATEMORN,38.8573,-77.0574
+18th & Hayes St,Leave,1,AFTERNOON,38.8573,-77.0574
+18th & Hayes St,Leave,1,NIGHT,38.8573,-77.0574
+4th & E St SW,Leave,1,EARLYMORN,38.88412,-77.017445
+4th & E St SW,Leave,11,EVENING,38.88412,-77.017445
+4th & E St SW,Leave,11,LATEMORN,38.88412,-77.017445
+4th & E St SW,Leave,5,AFTERNOON,38.88412,-77.017445
+4th & E St SW,Leave,8,NIGHT,38.88412,-77.017445
+4th St & Rhode Island Ave NE,Leave,1,EARLYMORN,38.919488,-77.000624
+4th St & Rhode Island Ave NE,Leave,1,EVENING,38.919488,-77.000624
+4th St & Rhode Island Ave NE,Leave,4,LATEMORN,38.919488,-77.000624
+4th St & Rhode Island Ave NE,Leave,3,AFTERNOON,38.919488,-77.000624
+4th St & Rhode Island Ave NE,Leave,4,NIGHT,38.919488,-77.000624
+15th & P St NW,Leave,73,EVENING,38.90985,-77.034438
+15th & P St NW,Leave,5,EARLYMORN,38.90985,-77.034438
+15th & P St NW,Leave,4,LATENIGHT,38.90985,-77.034438
+15th & P St NW,Leave,18,LATEMORN,38.90985,-77.034438
+15th & P St NW,Leave,30,AFTERNOON,38.90985,-77.034438
+15th & P St NW,Leave,18,NIGHT,38.90985,-77.034438
+36th & Calvert St NW / Glover Park,Leave,1,EVENING,38.922581,-77.070334
+36th & Calvert St NW / Glover Park,Leave,7,LATEMORN,38.922581,-77.070334
+36th & Calvert St NW / Glover Park,Leave,2,LATENIGHT,38.922581,-77.070334
+Wilson Blvd & N Oakland St,Leave,2,EVENING,38.8815,-77.10396
+Wilson Blvd & N Oakland St,Leave,6,LATEMORN,38.8815,-77.10396
+Wilson Blvd & N Oakland St,Leave,2,AFTERNOON,38.8815,-77.10396
+Wilson Blvd & N Oakland St,Leave,2,NIGHT,38.8815,-77.10396
+14th & D St SE,Leave,2,EARLYMORN,38.884,-76.9861
+14th & D St SE,Leave,4,EVENING,38.884,-76.9861
+14th & D St SE,Leave,8,LATEMORN,38.884,-76.9861
+14th & D St SE,Leave,6,AFTERNOON,38.884,-76.9861
+14th & D St SE,Leave,6,NIGHT,38.884,-76.9861
+Washington Blvd & 7th St N,Return,4,EVENING,38.880834,-77.091129
+Washington Blvd & 7th St N,Return,3,LATEMORN,38.880834,-77.091129
+Washington Blvd & 7th St N,Return,2,NIGHT,38.880834,-77.091129
+1st & Washington Hospital Center NW,Return,1,LATEMORN,38.928743,-77.012457
+Court House Metro / Wilson Blvd & N Uhle St,Return,4,EVENING,38.891696,-77.0846
+Court House Metro / Wilson Blvd & N Uhle St,Return,8,LATEMORN,38.891696,-77.0846
+Court House Metro / Wilson Blvd & N Uhle St,Return,11,AFTERNOON,38.891696,-77.0846
+Court House Metro / Wilson Blvd & N Uhle St,Return,4,NIGHT,38.891696,-77.0846
+19th & K St NW,Return,6,EVENING,38.902204,-77.04337
+19th & K St NW,Return,18,LATEMORN,38.902204,-77.04337
+19th & K St NW,Return,7,AFTERNOON,38.902204,-77.04337
+Potomac & Pennsylvania Ave SE,Return,8,EVENING,38.8803,-76.9862
+Potomac & Pennsylvania Ave SE,Return,1,EARLYMORN,38.8803,-76.9862
+Potomac & Pennsylvania Ave SE,Return,5,LATENIGHT,38.8803,-76.9862
+Potomac & Pennsylvania Ave SE,Return,3,LATEMORN,38.8803,-76.9862
+Potomac & Pennsylvania Ave SE,Return,14,AFTERNOON,38.8803,-76.9862
+Potomac & Pennsylvania Ave SE,Return,6,NIGHT,38.8803,-76.9862
+Florida Ave & R St NW,Return,9,EVENING,38.9126,-77.0135
+Florida Ave & R St NW,Return,1,EARLYMORN,38.9126,-77.0135
+Florida Ave & R St NW,Return,4,LATENIGHT,38.9126,-77.0135
+Florida Ave & R St NW,Return,1,LATEMORN,38.9126,-77.0135
+Florida Ave & R St NW,Return,8,AFTERNOON,38.9126,-77.0135
+Florida Ave & R St NW,Return,9,NIGHT,38.9126,-77.0135
+Smithsonian / Jefferson Dr & 12th St SW,Return,33,EVENING,38.888767,-77.02858
+Smithsonian / Jefferson Dr & 12th St SW,Return,12,LATEMORN,38.888767,-77.02858
+Smithsonian / Jefferson Dr & 12th St SW,Return,16,AFTERNOON,38.888767,-77.02858
+Smithsonian / Jefferson Dr & 12th St SW,Return,7,NIGHT,38.888767,-77.02858
+19th & L St NW,Return,1,NIGHT,38.903407,-77.043648
+19th & L St NW,Return,5,EVENING,38.903407,-77.043648
+19th & L St NW,Return,22,LATEMORN,38.903407,-77.043648
+19th & L St NW,Return,6,AFTERNOON,38.903407,-77.043648
+19th & L St NW,Return,1,LATENIGHT,38.903407,-77.043648
+Ward Circle / American University,Return,2,EVENING,38.938736,-77.087171
+Ward Circle / American University,Return,2,LATEMORN,38.938736,-77.087171
+Ward Circle / American University,Return,3,AFTERNOON,38.938736,-77.087171
+Ward Circle / American University,Return,1,NIGHT,38.938736,-77.087171
+7th & T St NW,Return,5,LATENIGHT,38.9155,-77.0222
+7th & T St NW,Return,18,EVENING,38.9155,-77.0222
+7th & T St NW,Return,11,LATEMORN,38.9155,-77.0222
+7th & T St NW,Return,5,AFTERNOON,38.9155,-77.0222
+7th & T St NW,Return,19,NIGHT,38.9155,-77.0222
+N Adams St & Lee Hwy,Return,1,LATEMORN,38.89593,-77.089006
+N Adams St & Lee Hwy,Return,1,LATENIGHT,38.89593,-77.089006
+N Adams St & Lee Hwy,Return,6,EVENING,38.89593,-77.089006
+N Adams St & Lee Hwy,Return,2,AFTERNOON,38.89593,-77.089006
+N Adams St & Lee Hwy,Return,7,NIGHT,38.89593,-77.089006
+17th & K St NW / Farragut Square,Return,7,EVENING,38.902061,-77.038322
+17th & K St NW / Farragut Square,Return,1,EARLYMORN,38.902061,-77.038322
+17th & K St NW / Farragut Square,Return,1,LATENIGHT,38.902061,-77.038322
+17th & K St NW / Farragut Square,Return,16,LATEMORN,38.902061,-77.038322
+17th & K St NW / Farragut Square,Return,10,AFTERNOON,38.902061,-77.038322
+17th & K St NW / Farragut Square,Return,4,NIGHT,38.902061,-77.038322
+12th & L St NW,Return,20,EVENING,38.903819,-77.0284
+12th & L St NW,Return,1,EARLYMORN,38.903819,-77.0284
+12th & L St NW,Return,8,LATENIGHT,38.903819,-77.0284
+12th & L St NW,Return,12,LATEMORN,38.903819,-77.0284
+12th & L St NW,Return,9,AFTERNOON,38.903819,-77.0284
+12th & L St NW,Return,14,NIGHT,38.903819,-77.0284
+Wilson Blvd & Franklin Rd,Return,4,EVENING,38.8904,-77.0889
+Wilson Blvd & Franklin Rd,Return,3,LATEMORN,38.8904,-77.0889
+Wilson Blvd & Franklin Rd,Return,1,AFTERNOON,38.8904,-77.0889
+Wilson Blvd & Franklin Rd,Return,2,NIGHT,38.8904,-77.0889
+23rd & Eads,Return,4,EVENING,38.853613,-77.053535
+23rd & Eads,Return,1,EARLYMORN,38.853613,-77.053535
+23rd & Eads,Return,3,AFTERNOON,38.853613,-77.053535
+23rd & Eads,Return,5,NIGHT,38.853613,-77.053535
+Clarendon Blvd & N Fillmore St,Return,2,EVENING,38.8881,-77.09308
+Clarendon Blvd & N Fillmore St,Return,2,LATEMORN,38.8881,-77.09308
+Clarendon Blvd & N Fillmore St,Return,6,AFTERNOON,38.8881,-77.09308
+Wilson Blvd & N Edgewood St,Return,2,EVENING,38.889,-77.0925
+Wilson Blvd & N Edgewood St,Return,1,LATEMORN,38.889,-77.0925
+Wilson Blvd & N Edgewood St,Return,1,NIGHT,38.889,-77.0925
+Massachusetts Ave & Dupont Circle NW,Return,52,EVENING,38.9101,-77.0444
+Massachusetts Ave & Dupont Circle NW,Return,6,EARLYMORN,38.9101,-77.0444
+Massachusetts Ave & Dupont Circle NW,Return,14,LATENIGHT,38.9101,-77.0444
+Massachusetts Ave & Dupont Circle NW,Return,67,LATEMORN,38.9101,-77.0444
+Massachusetts Ave & Dupont Circle NW,Return,35,AFTERNOON,38.9101,-77.0444
+Massachusetts Ave & Dupont Circle NW,Return,38,NIGHT,38.9101,-77.0444
+Eckington Pl & Q St NE,Return,1,LATENIGHT,38.910972,-77.00495
+Eckington Pl & Q St NE,Return,4,EVENING,38.910972,-77.00495
+Eckington Pl & Q St NE,Return,3,LATEMORN,38.910972,-77.00495
+Eckington Pl & Q St NE,Return,6,AFTERNOON,38.910972,-77.00495
+Eckington Pl & Q St NE,Return,5,NIGHT,38.910972,-77.00495
+Ballston Metro / N Stuart & 9th St N,Return,2,NIGHT,38.881044,-77.111768
+Ballston Metro / N Stuart & 9th St N,Return,6,LATEMORN,38.881044,-77.111768
+Ballston Metro / N Stuart & 9th St N,Return,1,AFTERNOON,38.881044,-77.111768
+Ballston Metro / N Stuart & 9th St N,Return,1,EVENING,38.881044,-77.111768
+Ballston Metro / N Stuart & 9th St N,Return,1,LATENIGHT,38.881044,-77.111768
+Commerce St & Fayette St,Return,3,LATEMORN,38.805648,-77.05293
+10th & Monroe St NE,Return,6,EVENING,38.932514,-76.992889
+10th & Monroe St NE,Return,1,NIGHT,38.932514,-76.992889
+1st & K St SE,Return,3,LATEMORN,38.87861,-77.006004
+1st & K St SE,Return,8,NIGHT,38.87861,-77.006004
+1st & K St SE,Return,16,EVENING,38.87861,-77.006004
+1st & K St SE,Return,3,AFTERNOON,38.87861,-77.006004
+1st & K St SE,Return,1,LATENIGHT,38.87861,-77.006004
+Barton St & 10th St N,Return,1,NIGHT,38.884961,-77.08777
+Anacostia Library,Return,2,LATEMORN,38.865784,-76.9784
+20th & Crystal Dr,Return,8,EVENING,38.8564,-77.0492
+20th & Crystal Dr,Return,2,LATEMORN,38.8564,-77.0492
+20th & Crystal Dr,Return,1,AFTERNOON,38.8564,-77.0492
+N Rhodes & 16th St N,Return,1,NIGHT,38.892164,-77.079375
+N Rhodes & 16th St N,Return,3,EVENING,38.892164,-77.079375
+N Rhodes & 16th St N,Return,1,LATENIGHT,38.892164,-77.079375
+Adams Mill & Columbia Rd NW,Return,33,EVENING,38.922925,-77.042581
+Adams Mill & Columbia Rd NW,Return,3,EARLYMORN,38.922925,-77.042581
+Adams Mill & Columbia Rd NW,Return,6,LATENIGHT,38.922925,-77.042581
+Adams Mill & Columbia Rd NW,Return,6,LATEMORN,38.922925,-77.042581
+Adams Mill & Columbia Rd NW,Return,17,AFTERNOON,38.922925,-77.042581
+Adams Mill & Columbia Rd NW,Return,22,NIGHT,38.922925,-77.042581
+Georgia & New Hampshire Ave NW,Return,2,LATENIGHT,38.936043,-77.024649
+Georgia & New Hampshire Ave NW,Return,21,EVENING,38.936043,-77.024649
+Georgia & New Hampshire Ave NW,Return,4,AFTERNOON,38.936043,-77.024649
+Georgia & New Hampshire Ave NW,Return,9,NIGHT,38.936043,-77.024649
+15th & Hayes St,Return,1,EVENING,38.8604,-77.0603
+15th & Hayes St,Return,1,AFTERNOON,38.8604,-77.0603
+15th & Hayes St,Return,1,NIGHT,38.8604,-77.0603
+Minnesota Ave Metro/DOES,Return,1,EARLYMORN,38.897063,-76.947446
+Thomas Circle,Return,36,EVENING,38.9059,-77.0325
+Thomas Circle,Return,3,EARLYMORN,38.9059,-77.0325
+Thomas Circle,Return,9,LATENIGHT,38.9059,-77.0325
+Thomas Circle,Return,39,LATEMORN,38.9059,-77.0325
+Thomas Circle,Return,22,AFTERNOON,38.9059,-77.0325
+Thomas Circle,Return,33,NIGHT,38.9059,-77.0325
+7th & R St NW / Shaw Library,Return,22,EVENING,38.912719,-77.022155
+7th & R St NW / Shaw Library,Return,1,EARLYMORN,38.912719,-77.022155
+7th & R St NW / Shaw Library,Return,5,LATENIGHT,38.912719,-77.022155
+7th & R St NW / Shaw Library,Return,5,LATEMORN,38.912719,-77.022155
+7th & R St NW / Shaw Library,Return,9,AFTERNOON,38.912719,-77.022155
+7th & R St NW / Shaw Library,Return,7,NIGHT,38.912719,-77.022155
+4th & East Capitol St NE,Return,2,EARLYMORN,38.889955,-77.000349
+4th & East Capitol St NE,Return,10,EVENING,38.889955,-77.000349
+4th & East Capitol St NE,Return,16,LATEMORN,38.889955,-77.000349
+4th & East Capitol St NE,Return,7,AFTERNOON,38.889955,-77.000349
+4th & East Capitol St NE,Return,9,NIGHT,38.889955,-77.000349
+New Hampshire Ave & T St NW [formerly 16th & U St NW],Return,35,EVENING,38.91554,-77.03818
+New Hampshire Ave & T St NW [formerly 16th & U St NW],Return,6,EARLYMORN,38.91554,-77.03818
+New Hampshire Ave & T St NW [formerly 16th & U St NW],Return,5,LATENIGHT,38.91554,-77.03818
+New Hampshire Ave & T St NW [formerly 16th & U St NW],Return,1,LATEMORN,38.91554,-77.03818
+New Hampshire Ave & T St NW [formerly 16th & U St NW],Return,13,AFTERNOON,38.91554,-77.03818
+New Hampshire Ave & T St NW [formerly 16th & U St NW],Return,27,NIGHT,38.91554,-77.03818
+Metro Center / 12th & G St NW,Return,5,NIGHT,38.898364,-77.027869
+Metro Center / 12th & G St NW,Return,31,EVENING,38.898364,-77.027869
+Metro Center / 12th & G St NW,Return,30,LATEMORN,38.898364,-77.027869
+Metro Center / 12th & G St NW,Return,23,AFTERNOON,38.898364,-77.027869
+Metro Center / 12th & G St NW,Return,3,LATENIGHT,38.898364,-77.027869
+C & O Canal & Wisconsin Ave NW,Return,13,EVENING,38.90375,-77.06269
+C & O Canal & Wisconsin Ave NW,Return,40,LATEMORN,38.90375,-77.06269
+C & O Canal & Wisconsin Ave NW,Return,15,AFTERNOON,38.90375,-77.06269
+USDA / 12th & Independence Ave SW,Return,3,EARLYMORN,38.887237,-77.028226
+USDA / 12th & Independence Ave SW,Return,3,EVENING,38.887237,-77.028226
+USDA / 12th & Independence Ave SW,Return,18,LATEMORN,38.887237,-77.028226
+USDA / 12th & Independence Ave SW,Return,3,AFTERNOON,38.887237,-77.028226
+USDA / 12th & Independence Ave SW,Return,2,LATENIGHT,38.887237,-77.028226
+27th & Crystal Dr,Return,2,EVENING,38.848441,-77.051516
+27th & Crystal Dr,Return,5,LATEMORN,38.848441,-77.051516
+27th & Crystal Dr,Return,1,AFTERNOON,38.848441,-77.051516
+27th & Crystal Dr,Return,1,NIGHT,38.848441,-77.051516
+Connecticut Ave & Newark St NW / Cleveland Park,Return,2,LATENIGHT,38.934267,-77.057979
+Connecticut Ave & Newark St NW / Cleveland Park,Return,9,EVENING,38.934267,-77.057979
+Connecticut Ave & Newark St NW / Cleveland Park,Return,6,LATEMORN,38.934267,-77.057979
+Connecticut Ave & Newark St NW / Cleveland Park,Return,10,AFTERNOON,38.934267,-77.057979
+Connecticut Ave & Newark St NW / Cleveland Park,Return,3,NIGHT,38.934267,-77.057979
+D St & Maryland Ave NE,Return,21,EVENING,38.894758,-76.997114
+D St & Maryland Ave NE,Return,1,EARLYMORN,38.894758,-76.997114
+D St & Maryland Ave NE,Return,5,LATENIGHT,38.894758,-76.997114
+D St & Maryland Ave NE,Return,4,LATEMORN,38.894758,-76.997114
+D St & Maryland Ave NE,Return,12,AFTERNOON,38.894758,-76.997114
+D St & Maryland Ave NE,Return,7,NIGHT,38.894758,-76.997114
+North Capitol St & F St NW,Return,32,EVENING,38.897446,-77.009888
+North Capitol St & F St NW,Return,3,EARLYMORN,38.897446,-77.009888
+North Capitol St & F St NW,Return,1,LATENIGHT,38.897446,-77.009888
+North Capitol St & F St NW,Return,33,LATEMORN,38.897446,-77.009888
+North Capitol St & F St NW,Return,21,AFTERNOON,38.897446,-77.009888
+North Capitol St & F St NW,Return,7,NIGHT,38.897446,-77.009888
+Tenleytown / Wisconsin Ave & Albemarle St NW,Return,8,EVENING,38.947607,-77.079382
+Tenleytown / Wisconsin Ave & Albemarle St NW,Return,3,LATEMORN,38.947607,-77.079382
+Tenleytown / Wisconsin Ave & Albemarle St NW,Return,4,AFTERNOON,38.947607,-77.079382
+Tenleytown / Wisconsin Ave & Albemarle St NW,Return,5,NIGHT,38.947607,-77.079382
+3rd & G St SE,Return,2,EARLYMORN,38.881185,-77.001828
+3rd & G St SE,Return,14,EVENING,38.881185,-77.001828
+3rd & G St SE,Return,3,LATEMORN,38.881185,-77.001828
+3rd & G St SE,Return,3,AFTERNOON,38.881185,-77.001828
+3rd & G St SE,Return,7,NIGHT,38.881185,-77.001828
+N Quincy St & Wilson Blvd,Return,2,EVENING,38.880151,-77.107673
+N Quincy St & Wilson Blvd,Return,3,AFTERNOON,38.880151,-77.107673
+US Dept of State / Virginia Ave & 21st St NW,Return,2,EARLYMORN,38.894919,-77.046587
+US Dept of State / Virginia Ave & 21st St NW,Return,5,EVENING,38.894919,-77.046587
+US Dept of State / Virginia Ave & 21st St NW,Return,17,LATEMORN,38.894919,-77.046587
+US Dept of State / Virginia Ave & 21st St NW,Return,6,AFTERNOON,38.894919,-77.046587
+US Dept of State / Virginia Ave & 21st St NW,Return,1,NIGHT,38.894919,-77.046587
+13th & D St NE,Return,7,NIGHT,38.894832,-76.987633
+13th & D St NE,Return,21,EVENING,38.894832,-76.987633
+13th & D St NE,Return,5,LATEMORN,38.894832,-76.987633
+13th & D St NE,Return,5,AFTERNOON,38.894832,-76.987633
+13th & D St NE,Return,1,LATENIGHT,38.894832,-76.987633
+20th St & Florida Ave NW,Return,26,EVENING,38.9154,-77.0446
+20th St & Florida Ave NW,Return,3,EARLYMORN,38.9154,-77.0446
+20th St & Florida Ave NW,Return,3,LATENIGHT,38.9154,-77.0446
+20th St & Florida Ave NW,Return,18,LATEMORN,38.9154,-77.0446
+20th St & Florida Ave NW,Return,14,AFTERNOON,38.9154,-77.0446
+20th St & Florida Ave NW,Return,15,NIGHT,38.9154,-77.0446
+Eastern Market / 7th & North Carolina Ave SE,Return,4,EVENING,38.886952,-76.996806
+Eastern Market / 7th & North Carolina Ave SE,Return,1,EARLYMORN,38.886952,-76.996806
+Eastern Market / 7th & North Carolina Ave SE,Return,1,LATENIGHT,38.886952,-76.996806
+Eastern Market / 7th & North Carolina Ave SE,Return,5,LATEMORN,38.886952,-76.996806
+Eastern Market / 7th & North Carolina Ave SE,Return,10,AFTERNOON,38.886952,-76.996806
+Eastern Market / 7th & North Carolina Ave SE,Return,3,NIGHT,38.886952,-76.996806
+37th & O St NW / Georgetown University,Return,17,EVENING,38.90774,-77.071652
+37th & O St NW / Georgetown University,Return,1,EARLYMORN,38.90774,-77.071652
+37th & O St NW / Georgetown University,Return,3,LATENIGHT,38.90774,-77.071652
+37th & O St NW / Georgetown University,Return,14,LATEMORN,38.90774,-77.071652
+37th & O St NW / Georgetown University,Return,17,AFTERNOON,38.90774,-77.071652
+37th & O St NW / Georgetown University,Return,4,NIGHT,38.90774,-77.071652
+S Glebe & Potomac Ave,Return,6,EVENING,38.8426,-77.0502
+S Glebe & Potomac Ave,Return,1,AFTERNOON,38.8426,-77.0502
+S Glebe & Potomac Ave,Return,1,NIGHT,38.8426,-77.0502
+Anacostia Metro,Return,2,EVENING,38.8624,-76.9949
+19th St & Pennsylvania Ave NW,Return,1,EARLYMORN,38.9003,-77.0429
+19th St & Pennsylvania Ave NW,Return,8,EVENING,38.9003,-77.0429
+19th St & Pennsylvania Ave NW,Return,11,LATEMORN,38.9003,-77.0429
+19th St & Pennsylvania Ave NW,Return,8,AFTERNOON,38.9003,-77.0429
+Washington Blvd & 10th St N,Return,2,EVENING,38.884734,-77.093485
+Washington Blvd & 10th St N,Return,1,NIGHT,38.884734,-77.093485
+7th & Water St SW / SW Waterfront,Return,9,EVENING,38.878925,-77.024016
+7th & Water St SW / SW Waterfront,Return,2,LATEMORN,38.878925,-77.024016
+7th & Water St SW / SW Waterfront,Return,5,AFTERNOON,38.878925,-77.024016
+7th & Water St SW / SW Waterfront,Return,3,NIGHT,38.878925,-77.024016
+18th St & Pennsylvania Ave NW,Return,1,EARLYMORN,38.89968,-77.041539
+18th St & Pennsylvania Ave NW,Return,8,EVENING,38.89968,-77.041539
+18th St & Pennsylvania Ave NW,Return,18,LATEMORN,38.89968,-77.041539
+18th St & Pennsylvania Ave NW,Return,12,AFTERNOON,38.89968,-77.041539
+18th St & Pennsylvania Ave NW,Return,2,NIGHT,38.89968,-77.041539
+L'Enfant Plaza / 7th & C St SW,Return,2,EARLYMORN,38.886266,-77.022241
+L'Enfant Plaza / 7th & C St SW,Return,15,EVENING,38.886266,-77.022241
+L'Enfant Plaza / 7th & C St SW,Return,23,LATEMORN,38.886266,-77.022241
+L'Enfant Plaza / 7th & C St SW,Return,3,AFTERNOON,38.886266,-77.022241
+L'Enfant Plaza / 7th & C St SW,Return,1,NIGHT,38.886266,-77.022241
+18th & M St NW,Return,16,EVENING,38.904742,-77.041606
+18th & M St NW,Return,21,LATEMORN,38.904742,-77.041606
+18th & M St NW,Return,11,AFTERNOON,38.904742,-77.041606
+18th & M St NW,Return,4,NIGHT,38.904742,-77.041606
+Harvard St & Adams Mill Rd NW,Return,4,EVENING,38.927872,-77.043358
+Harvard St & Adams Mill Rd NW,Return,1,EARLYMORN,38.927872,-77.043358
+Harvard St & Adams Mill Rd NW,Return,4,AFTERNOON,38.927872,-77.043358
+Harvard St & Adams Mill Rd NW,Return,5,NIGHT,38.927872,-77.043358
+S Joyce & Army Navy Dr,Return,3,EVENING,38.8637,-77.0633
+S Joyce & Army Navy Dr,Return,2,NIGHT,38.8637,-77.0633
+14th & R St NW,Return,3,LATENIGHT,38.912682,-77.031681
+14th & R St NW,Return,27,EVENING,38.912682,-77.031681
+14th & R St NW,Return,3,LATEMORN,38.912682,-77.031681
+14th & R St NW,Return,16,AFTERNOON,38.912682,-77.031681
+14th & R St NW,Return,13,NIGHT,38.912682,-77.031681
+Arlington Blvd & N Queen St,Return,4,LATEMORN,38.889365,-77.077294
+Arlington Blvd & N Queen St,Return,3,NIGHT,38.889365,-77.077294
+16th & Harvard St NW,Return,8,LATENIGHT,38.926088,-77.036536
+16th & Harvard St NW,Return,16,EVENING,38.926088,-77.036536
+16th & Harvard St NW,Return,2,LATEMORN,38.926088,-77.036536
+16th & Harvard St NW,Return,4,AFTERNOON,38.926088,-77.036536
+16th & Harvard St NW,Return,22,NIGHT,38.926088,-77.036536
+Park Rd & Holmead Pl NW,Return,15,EVENING,38.9308,-77.0315
+Park Rd & Holmead Pl NW,Return,1,EARLYMORN,38.9308,-77.0315
+Park Rd & Holmead Pl NW,Return,3,LATENIGHT,38.9308,-77.0315
+Park Rd & Holmead Pl NW,Return,4,LATEMORN,38.9308,-77.0315
+Park Rd & Holmead Pl NW,Return,10,AFTERNOON,38.9308,-77.0315
+Park Rd & Holmead Pl NW,Return,14,NIGHT,38.9308,-77.0315
+Georgia Ave and Fairmont St NW,Return,7,EVENING,38.9249,-77.0222
+Georgia Ave and Fairmont St NW,Return,2,LATEMORN,38.9249,-77.0222
+Georgia Ave and Fairmont St NW,Return,2,AFTERNOON,38.9249,-77.0222
+Georgia Ave and Fairmont St NW,Return,3,NIGHT,38.9249,-77.0222
+10th & U St NW,Return,24,EVENING,38.9172,-77.0259
+10th & U St NW,Return,1,EARLYMORN,38.9172,-77.0259
+10th & U St NW,Return,16,LATENIGHT,38.9172,-77.0259
+10th & U St NW,Return,8,LATEMORN,38.9172,-77.0259
+10th & U St NW,Return,14,AFTERNOON,38.9172,-77.0259
+10th & U St NW,Return,12,NIGHT,38.9172,-77.0259
+3rd & D St SE,Return,15,EVENING,38.8851,-77.0023
+3rd & D St SE,Return,2,EARLYMORN,38.8851,-77.0023
+3rd & D St SE,Return,2,LATENIGHT,38.8851,-77.0023
+3rd & D St SE,Return,15,LATEMORN,38.8851,-77.0023
+3rd & D St SE,Return,11,AFTERNOON,38.8851,-77.0023
+3rd & D St SE,Return,10,NIGHT,38.8851,-77.0023
+25th St & Pennsylvania Ave NW,Return,27,EVENING,38.903827,-77.053485
+25th St & Pennsylvania Ave NW,Return,2,EARLYMORN,38.903827,-77.053485
+25th St & Pennsylvania Ave NW,Return,4,LATENIGHT,38.903827,-77.053485
+25th St & Pennsylvania Ave NW,Return,9,LATEMORN,38.903827,-77.053485
+25th St & Pennsylvania Ave NW,Return,14,AFTERNOON,38.903827,-77.053485
+25th St & Pennsylvania Ave NW,Return,3,NIGHT,38.903827,-77.053485
+14th & Harvard St NW,Return,9,EVENING,38.9268,-77.0322
+14th & Harvard St NW,Return,2,EARLYMORN,38.9268,-77.0322
+14th & Harvard St NW,Return,2,LATENIGHT,38.9268,-77.0322
+14th & Harvard St NW,Return,5,LATEMORN,38.9268,-77.0322
+14th & Harvard St NW,Return,11,AFTERNOON,38.9268,-77.0322
+14th & Harvard St NW,Return,8,NIGHT,38.9268,-77.0322
+Clarendon Blvd & Pierce St,Return,2,EVENING,38.893648,-77.076701
+Clarendon Blvd & Pierce St,Return,1,LATEMORN,38.893648,-77.076701
+Clarendon Blvd & Pierce St,Return,4,AFTERNOON,38.893648,-77.076701
+Lynn & 19th St North,Return,9,EVENING,38.897315,-77.070993
+Lynn & 19th St North,Return,1,EARLYMORN,38.897315,-77.070993
+Lynn & 19th St North,Return,1,LATENIGHT,38.897315,-77.070993
+Lynn & 19th St North,Return,22,LATEMORN,38.897315,-77.070993
+Lynn & 19th St North,Return,13,AFTERNOON,38.897315,-77.070993
+Lynn & 19th St North,Return,2,NIGHT,38.897315,-77.070993
+5th St & K St NW,Return,31,EVENING,38.90304,-77.019027
+5th St & K St NW,Return,1,EARLYMORN,38.90304,-77.019027
+5th St & K St NW,Return,2,LATENIGHT,38.90304,-77.019027
+5th St & K St NW,Return,9,LATEMORN,38.90304,-77.019027
+5th St & K St NW,Return,13,AFTERNOON,38.90304,-77.019027
+5th St & K St NW,Return,29,NIGHT,38.90304,-77.019027
+Pentagon City Metro / 12th & Hayes St,Return,4,EVENING,38.862179,-77.059986
+Pentagon City Metro / 12th & Hayes St,Return,2,LATEMORN,38.862179,-77.059986
+Pentagon City Metro / 12th & Hayes St,Return,3,AFTERNOON,38.862179,-77.059986
+Pentagon City Metro / 12th & Hayes St,Return,2,NIGHT,38.862179,-77.059986
+Lincoln Memorial,Return,31,EVENING,38.888251,-77.049426
+Lincoln Memorial,Return,2,EARLYMORN,38.888251,-77.049426
+Lincoln Memorial,Return,1,LATENIGHT,38.888251,-77.049426
+Lincoln Memorial,Return,9,LATEMORN,38.888251,-77.049426
+Lincoln Memorial,Return,20,AFTERNOON,38.888251,-77.049426
+Lincoln Memorial,Return,2,NIGHT,38.888251,-77.049426
+Market Square / King St & Royal St,Return,2,EVENING,38.804718,-77.043363
+Market Square / King St & Royal St,Return,1,LATEMORN,38.804718,-77.043363
+Market Square / King St & Royal St,Return,3,AFTERNOON,38.804718,-77.043363
+Market Square / King St & Royal St,Return,1,NIGHT,38.804718,-77.043363
+N Quincy St & Glebe Rd,Return,2,LATEMORN,38.876393,-77.107735
+N Quincy St & Glebe Rd,Return,2,LATENIGHT,38.876393,-77.107735
+N Quincy St & Glebe Rd,Return,2,EVENING,38.876393,-77.107735
+N Quincy St & Glebe Rd,Return,4,NIGHT,38.876393,-77.107735
+Good Hope Rd & 14th St SE,Return,1,LATEMORN,38.866611,-76.985238
+Gallaudet / 8th St & Florida Ave NE,Return,2,EVENING,38.90509,-76.9941
+Gallaudet / 8th St & Florida Ave NE,Return,4,LATEMORN,38.90509,-76.9941
+Gallaudet / 8th St & Florida Ave NE,Return,3,AFTERNOON,38.90509,-76.9941
+Gallaudet / 8th St & Florida Ave NE,Return,2,NIGHT,38.90509,-76.9941
+Central Library / N Quincy St & 10th St N,Return,2,EVENING,38.88397,-77.10783
+Central Library / N Quincy St & 10th St N,Return,1,AFTERNOON,38.88397,-77.10783
+17th & Rhode Island Ave NW,Return,3,EARLYMORN,38.906602,-77.038785
+17th & Rhode Island Ave NW,Return,23,EVENING,38.906602,-77.038785
+17th & Rhode Island Ave NW,Return,41,LATEMORN,38.906602,-77.038785
+17th & Rhode Island Ave NW,Return,18,AFTERNOON,38.906602,-77.038785
+17th & Rhode Island Ave NW,Return,12,NIGHT,38.906602,-77.038785
+8th & Eye St SE / Barracks Row,Return,3,EARLYMORN,38.8792,-76.9953
+8th & Eye St SE / Barracks Row,Return,5,EVENING,38.8792,-76.9953
+8th & Eye St SE / Barracks Row,Return,13,LATEMORN,38.8792,-76.9953
+34th St & Wisconsin Ave NW,Return,1,LATEMORN,38.916442,-77.0682
+34th St & Wisconsin Ave NW,Return,1,EVENING,38.916442,-77.0682
+34th St & Wisconsin Ave NW,Return,3,EARLYMORN,38.916442,-77.0682
+34th St & Wisconsin Ave NW,Return,7,AFTERNOON,38.916442,-77.0682
+34th St & Wisconsin Ave NW,Return,1,NIGHT,38.916442,-77.0682
+Rosslyn Metro / Wilson Blvd & Ft Myer Dr,Return,13,EVENING,38.8946,-77.072305
+Rosslyn Metro / Wilson Blvd & Ft Myer Dr,Return,9,LATEMORN,38.8946,-77.072305
+Rosslyn Metro / Wilson Blvd & Ft Myer Dr,Return,4,AFTERNOON,38.8946,-77.072305
+Rosslyn Metro / Wilson Blvd & Ft Myer Dr,Return,2,NIGHT,38.8946,-77.072305
+N Veitch & Key Blvd,Return,1,EARLYMORN,38.893241,-77.086045
+N Veitch & Key Blvd,Return,4,LATEMORN,38.893241,-77.086045
+N Veitch & Key Blvd,Return,1,AFTERNOON,38.893241,-77.086045
+N Veitch & Key Blvd,Return,2,NIGHT,38.893241,-77.086045
+King St Metro,Return,3,EVENING,38.805767,-77.06072
+King St Metro,Return,2,LATEMORN,38.805767,-77.06072
+King St Metro,Return,1,AFTERNOON,38.805767,-77.06072
+King St Metro,Return,4,NIGHT,38.805767,-77.06072
+19th & East Capitol St SE,Return,1,AFTERNOON,38.8896,-76.9769
+19th & East Capitol St SE,Return,5,EVENING,38.8896,-76.9769
+19th & East Capitol St SE,Return,3,LATEMORN,38.8896,-76.9769
+19th & East Capitol St SE,Return,1,LATENIGHT,38.8896,-76.9769
+19th & East Capitol St SE,Return,5,NIGHT,38.8896,-76.9769
+22nd & I St NW / Foggy Bottom,Return,1,EARLYMORN,38.90088,-77.048911
+22nd & I St NW / Foggy Bottom,Return,17,EVENING,38.90088,-77.048911
+22nd & I St NW / Foggy Bottom,Return,26,LATEMORN,38.90088,-77.048911
+22nd & I St NW / Foggy Bottom,Return,11,AFTERNOON,38.90088,-77.048911
+22nd & I St NW / Foggy Bottom,Return,11,NIGHT,38.90088,-77.048911
+M St & New Jersey Ave SE,Return,2,EARLYMORN,38.8763,-77.0037
+M St & New Jersey Ave SE,Return,7,EVENING,38.8763,-77.0037
+M St & New Jersey Ave SE,Return,15,LATEMORN,38.8763,-77.0037
+M St & New Jersey Ave SE,Return,5,AFTERNOON,38.8763,-77.0037
+M St & New Jersey Ave SE,Return,13,NIGHT,38.8763,-77.0037
+Fairfax Dr & Glebe Rd,Return,1,EARLYMORN,38.882281,-77.115449
+Fairfax Dr & Glebe Rd,Return,2,EVENING,38.882281,-77.115449
+Fairfax Dr & Glebe Rd,Return,10,LATEMORN,38.882281,-77.115449
+Fairfax Dr & Glebe Rd,Return,2,AFTERNOON,38.882281,-77.115449
+21st & M St NW,Return,21,EVENING,38.9054,-77.0471
+21st & M St NW,Return,5,EARLYMORN,38.9054,-77.0471
+21st & M St NW,Return,1,LATENIGHT,38.9054,-77.0471
+21st & M St NW,Return,25,LATEMORN,38.9054,-77.0471
+21st & M St NW,Return,19,AFTERNOON,38.9054,-77.0471
+21st & M St NW,Return,7,NIGHT,38.9054,-77.0471
+3000 Connecticut Ave NW / National Zoo,Return,1,EARLYMORN,38.930282,-77.055599
+3000 Connecticut Ave NW / National Zoo,Return,6,EVENING,38.930282,-77.055599
+3000 Connecticut Ave NW / National Zoo,Return,1,LATEMORN,38.930282,-77.055599
+3000 Connecticut Ave NW / National Zoo,Return,1,AFTERNOON,38.930282,-77.055599
+3000 Connecticut Ave NW / National Zoo,Return,7,NIGHT,38.930282,-77.055599
+1st & Rhode Island Ave NW,Return,16,EVENING,38.915417,-77.012289
+1st & Rhode Island Ave NW,Return,1,EARLYMORN,38.915417,-77.012289
+1st & Rhode Island Ave NW,Return,7,LATENIGHT,38.915417,-77.012289
+1st & Rhode Island Ave NW,Return,1,LATEMORN,38.915417,-77.012289
+1st & Rhode Island Ave NW,Return,12,AFTERNOON,38.915417,-77.012289
+1st & Rhode Island Ave NW,Return,13,NIGHT,38.915417,-77.012289
+Eastern Market Metro / Pennsylvania Ave & 7th St SE,Return,26,EVENING,38.884,-76.995397
+Eastern Market Metro / Pennsylvania Ave & 7th St SE,Return,22,LATEMORN,38.884,-76.995397
+Eastern Market Metro / Pennsylvania Ave & 7th St SE,Return,25,AFTERNOON,38.884,-76.995397
+Eastern Market Metro / Pennsylvania Ave & 7th St SE,Return,8,NIGHT,38.884,-76.995397
+Jefferson Dr & 14th St SW,Return,28,EVENING,38.888553,-77.032429
+Jefferson Dr & 14th St SW,Return,7,LATEMORN,38.888553,-77.032429
+Jefferson Dr & 14th St SW,Return,13,AFTERNOON,38.888553,-77.032429
+14th St & Spring Rd NW,Return,1,EVENING,38.9375,-77.0328
+14th St & Spring Rd NW,Return,2,EARLYMORN,38.9375,-77.0328
+14th St & Spring Rd NW,Return,3,LATENIGHT,38.9375,-77.0328
+14th St & Spring Rd NW,Return,1,LATEMORN,38.9375,-77.0328
+14th St & Spring Rd NW,Return,2,AFTERNOON,38.9375,-77.0328
+14th St & Spring Rd NW,Return,8,NIGHT,38.9375,-77.0328
+Van Ness Metro / UDC,Return,5,EVENING,38.944551,-77.063896
+Van Ness Metro / UDC,Return,1,EARLYMORN,38.944551,-77.063896
+Van Ness Metro / UDC,Return,1,LATENIGHT,38.944551,-77.063896
+Van Ness Metro / UDC,Return,5,LATEMORN,38.944551,-77.063896
+Van Ness Metro / UDC,Return,4,AFTERNOON,38.944551,-77.063896
+Van Ness Metro / UDC,Return,1,NIGHT,38.944551,-77.063896
+Braddock Rd Metro,Return,3,EVENING,38.814577,-77.052808
+Braddock Rd Metro,Return,1,LATEMORN,38.814577,-77.052808
+Braddock Rd Metro,Return,1,AFTERNOON,38.814577,-77.052808
+Braddock Rd Metro,Return,1,LATENIGHT,38.814577,-77.052808
+13th & H St NE,Return,7,LATEMORN,38.9003,-76.9882
+13th & H St NE,Return,16,NIGHT,38.9003,-76.9882
+13th & H St NE,Return,20,EVENING,38.9003,-76.9882
+13th & H St NE,Return,11,AFTERNOON,38.9003,-76.9882
+13th & H St NE,Return,3,LATENIGHT,38.9003,-76.9882
+Glebe Rd & 11th St N,Return,2,EVENING,38.883921,-77.116817
+Glebe Rd & 11th St N,Return,4,LATEMORN,38.883921,-77.116817
+Glebe Rd & 11th St N,Return,1,NIGHT,38.883921,-77.116817
+Columbus Circle / Union Station,Return,40,EVENING,38.89696,-77.00493
+Columbus Circle / Union Station,Return,3,EARLYMORN,38.89696,-77.00493
+Columbus Circle / Union Station,Return,1,LATENIGHT,38.89696,-77.00493
+Columbus Circle / Union Station,Return,51,LATEMORN,38.89696,-77.00493
+Columbus Circle / Union Station,Return,22,AFTERNOON,38.89696,-77.00493
+Columbus Circle / Union Station,Return,10,NIGHT,38.89696,-77.00493
+11th & Kenyon St NW,Return,3,LATENIGHT,38.929464,-77.027822
+11th & Kenyon St NW,Return,1,LATEMORN,38.929464,-77.027822
+11th & Kenyon St NW,Return,3,AFTERNOON,38.929464,-77.027822
+11th & Kenyon St NW,Return,17,EVENING,38.929464,-77.027822
+11th & Kenyon St NW,Return,11,NIGHT,38.929464,-77.027822
+11th & H St NE,Return,21,EVENING,38.899983,-76.991383
+11th & H St NE,Return,1,EARLYMORN,38.899983,-76.991383
+11th & H St NE,Return,3,LATENIGHT,38.899983,-76.991383
+11th & H St NE,Return,1,LATEMORN,38.899983,-76.991383
+11th & H St NE,Return,5,AFTERNOON,38.899983,-76.991383
+11th & H St NE,Return,14,NIGHT,38.899983,-76.991383
+Calvert St & Woodley Pl NW,Return,10,EVENING,38.9236,-77.0501
+Calvert St & Woodley Pl NW,Return,3,EARLYMORN,38.9236,-77.0501
+Calvert St & Woodley Pl NW,Return,4,LATENIGHT,38.9236,-77.0501
+Calvert St & Woodley Pl NW,Return,15,LATEMORN,38.9236,-77.0501
+Calvert St & Woodley Pl NW,Return,10,AFTERNOON,38.9236,-77.0501
+Calvert St & Woodley Pl NW,Return,8,NIGHT,38.9236,-77.0501
+Convention Center / 7th & M St NW,Return,24,EVENING,38.90572,-77.022264
+Convention Center / 7th & M St NW,Return,2,EARLYMORN,38.90572,-77.022264
+Convention Center / 7th & M St NW,Return,9,LATENIGHT,38.90572,-77.022264
+Convention Center / 7th & M St NW,Return,10,LATEMORN,38.90572,-77.022264
+Convention Center / 7th & M St NW,Return,9,AFTERNOON,38.90572,-77.022264
+Convention Center / 7th & M St NW,Return,16,NIGHT,38.90572,-77.022264
+8th & F St NW / National Portrait Gallery,Return,27,EVENING,38.897003,-77.022996
+8th & F St NW / National Portrait Gallery,Return,3,EARLYMORN,38.897003,-77.022996
+8th & F St NW / National Portrait Gallery,Return,3,LATENIGHT,38.897003,-77.022996
+8th & F St NW / National Portrait Gallery,Return,13,LATEMORN,38.897003,-77.022996
+8th & F St NW / National Portrait Gallery,Return,20,AFTERNOON,38.897003,-77.022996
+8th & F St NW / National Portrait Gallery,Return,9,NIGHT,38.897003,-77.022996
+12th & Newton St NE,Return,3,EVENING,38.933668,-76.991016
+12th & Newton St NE,Return,1,EARLYMORN,38.933668,-76.991016
+14th St Heights / 14th & Crittenden St NW,Return,7,NIGHT,38.947774,-77.032818
+14th St Heights / 14th & Crittenden St NW,Return,3,EVENING,38.947774,-77.032818
+14th St Heights / 14th & Crittenden St NW,Return,1,EARLYMORN,38.947774,-77.032818
+14th St Heights / 14th & Crittenden St NW,Return,4,LATENIGHT,38.947774,-77.032818
+John McCormack Dr & Michigan Ave NE,Return,1,EVENING,38.9346,-76.9955
+John McCormack Dr & Michigan Ave NE,Return,2,EARLYMORN,38.9346,-76.9955
+John McCormack Dr & Michigan Ave NE,Return,1,AFTERNOON,38.9346,-76.9955
+John McCormack Dr & Michigan Ave NE,Return,1,NIGHT,38.9346,-76.9955
+Idaho Ave & Newark St NW [on 2nd District patio],Return,2,EVENING,38.934751,-77.074647
+Idaho Ave & Newark St NW [on 2nd District patio],Return,1,LATEMORN,38.934751,-77.074647
+Idaho Ave & Newark St NW [on 2nd District patio],Return,3,AFTERNOON,38.934751,-77.074647
+Idaho Ave & Newark St NW [on 2nd District patio],Return,8,NIGHT,38.934751,-77.074647
+20th & E St NW,Return,2,LATENIGHT,38.8963,-77.045
+20th & E St NW,Return,13,LATEMORN,38.8963,-77.045
+20th & E St NW,Return,15,AFTERNOON,38.8963,-77.045
+20th & E St NW,Return,9,EVENING,38.8963,-77.045
+20th & E St NW,Return,9,NIGHT,38.8963,-77.045
+20th & O St NW / Dupont South,Return,19,EVENING,38.908905,-77.04478
+20th & O St NW / Dupont South,Return,1,EARLYMORN,38.908905,-77.04478
+20th & O St NW / Dupont South,Return,2,LATENIGHT,38.908905,-77.04478
+20th & O St NW / Dupont South,Return,19,LATEMORN,38.908905,-77.04478
+20th & O St NW / Dupont South,Return,13,AFTERNOON,38.908905,-77.04478
+20th & O St NW / Dupont South,Return,15,NIGHT,38.908905,-77.04478
+20th & Bell St,Return,1,EVENING,38.8561,-77.0512
+20th & Bell St,Return,1,LATEMORN,38.8561,-77.0512
+24th & N St NW,Return,5,EARLYMORN,38.9066,-77.05152
+24th & N St NW,Return,5,EVENING,38.9066,-77.05152
+24th & N St NW,Return,6,LATEMORN,38.9066,-77.05152
+24th & N St NW,Return,6,AFTERNOON,38.9066,-77.05152
+24th & N St NW,Return,1,LATENIGHT,38.9066,-77.05152
+21st & I St NW,Return,7,EVENING,38.9008,-77.047
+21st & I St NW,Return,29,LATEMORN,38.9008,-77.047
+21st & I St NW,Return,9,AFTERNOON,38.9008,-77.047
+21st & I St NW,Return,10,NIGHT,38.9008,-77.047
+Prince St & Union St,Return,3,EVENING,38.803124,-77.040363
+Prince St & Union St,Return,2,LATEMORN,38.803124,-77.040363
+Prince St & Union St,Return,1,AFTERNOON,38.803124,-77.040363
+Columbia Rd & Georgia Ave NW,Return,2,LATENIGHT,38.928156,-77.02344
+Columbia Rd & Georgia Ave NW,Return,9,EVENING,38.928156,-77.02344
+Columbia Rd & Georgia Ave NW,Return,1,EARLYMORN,38.928156,-77.02344
+Columbia Rd & Georgia Ave NW,Return,1,AFTERNOON,38.928156,-77.02344
+Columbia Rd & Georgia Ave NW,Return,13,NIGHT,38.928156,-77.02344
+Clarendon Metro / Wilson Blvd & N Highland St,Return,1,EARLYMORN,38.88786,-77.094875
+Clarendon Metro / Wilson Blvd & N Highland St,Return,4,EVENING,38.88786,-77.094875
+Clarendon Metro / Wilson Blvd & N Highland St,Return,4,LATEMORN,38.88786,-77.094875
+Clarendon Metro / Wilson Blvd & N Highland St,Return,2,NIGHT,38.88786,-77.094875
+39th & Calvert St NW / Stoddert,Return,2,EVENING,38.922649,-77.077271
+39th & Calvert St NW / Stoddert,Return,6,NIGHT,38.922649,-77.077271
+18th & Hayes St,Return,1,AFTERNOON,38.8573,-77.0574
+18th & Hayes St,Return,1,NIGHT,38.8573,-77.0574
+Fairfax Village,Return,1,EVENING,38.86559,-76.952103
+15th & K St NW,Return,12,EVENING,38.902,-77.03353
+15th & K St NW,Return,25,LATEMORN,38.902,-77.03353
+15th & K St NW,Return,2,AFTERNOON,38.902,-77.03353
+15th & K St NW,Return,3,NIGHT,38.902,-77.03353
+Bladensburg Rd & Benning Rd NE,Return,1,AFTERNOON,38.900413,-76.982872
+Bladensburg Rd & Benning Rd NE,Return,2,EVENING,38.900413,-76.982872
+Bladensburg Rd & Benning Rd NE,Return,1,LATEMORN,38.900413,-76.982872
+Bladensburg Rd & Benning Rd NE,Return,2,LATENIGHT,38.900413,-76.982872
+Bladensburg Rd & Benning Rd NE,Return,4,NIGHT,38.900413,-76.982872
+George Mason Dr & Wilson Blvd,Return,3,EVENING,38.87887,-77.1207
+George Mason Dr & Wilson Blvd,Return,2,LATEMORN,38.87887,-77.1207
+13th St & New York Ave NW,Return,9,EVENING,38.900283,-77.029822
+13th St & New York Ave NW,Return,3,EARLYMORN,38.900283,-77.029822
+13th St & New York Ave NW,Return,2,LATENIGHT,38.900283,-77.029822
+13th St & New York Ave NW,Return,20,LATEMORN,38.900283,-77.029822
+13th St & New York Ave NW,Return,12,AFTERNOON,38.900283,-77.029822
+13th St & New York Ave NW,Return,3,NIGHT,38.900283,-77.029822
+Potomac Ave & 35th St S,Return,2,LATENIGHT,38.844015,-77.050537
+21st St & Pennsylvania Ave NW,Return,1,EVENING,38.901539,-77.046564
+21st St & Pennsylvania Ave NW,Return,9,LATEMORN,38.901539,-77.046564
+21st St & Pennsylvania Ave NW,Return,8,AFTERNOON,38.901539,-77.046564
+21st St & Pennsylvania Ave NW,Return,1,NIGHT,38.901539,-77.046564
+Georgetown Harbor / 30th St NW,Return,14,EVENING,38.9022212,-77.059219
+Georgetown Harbor / 30th St NW,Return,18,LATEMORN,38.9022212,-77.059219
+Georgetown Harbor / 30th St NW,Return,13,AFTERNOON,38.9022212,-77.059219
+Georgetown Harbor / 30th St NW,Return,3,NIGHT,38.9022212,-77.059219
+14th & V St NW,Return,30,NIGHT,38.9176,-77.0321
+14th & V St NW,Return,36,EVENING,38.9176,-77.0321
+14th & V St NW,Return,4,LATEMORN,38.9176,-77.0321
+14th & V St NW,Return,18,AFTERNOON,38.9176,-77.0321
+14th & V St NW,Return,6,LATENIGHT,38.9176,-77.0321
+1st & M St NE,Return,16,EVENING,38.9057,-77.0056
+1st & M St NE,Return,1,EARLYMORN,38.9057,-77.0056
+1st & M St NE,Return,1,LATENIGHT,38.9057,-77.0056
+1st & M St NE,Return,13,LATEMORN,38.9057,-77.0056
+1st & M St NE,Return,21,AFTERNOON,38.9057,-77.0056
+1st & M St NE,Return,14,NIGHT,38.9057,-77.0056
+Key Blvd & N Quinn St,Return,1,LATENIGHT,38.896015,-77.078107
+Key Blvd & N Quinn St,Return,4,EVENING,38.896015,-77.078107
+Key Blvd & N Quinn St,Return,2,LATEMORN,38.896015,-77.078107
+Key Blvd & N Quinn St,Return,3,AFTERNOON,38.896015,-77.078107
+Key Blvd & N Quinn St,Return,1,NIGHT,38.896015,-77.078107
+6th & H St NE,Return,15,NIGHT,38.900384,-76.99831
+6th & H St NE,Return,16,EVENING,38.900384,-76.99831
+6th & H St NE,Return,6,AFTERNOON,38.900384,-76.99831
+6th & H St NE,Return,4,LATENIGHT,38.900384,-76.99831
+5th & F St NW,Return,13,EVENING,38.897222,-77.019347
+5th & F St NW,Return,6,EARLYMORN,38.897222,-77.019347
+5th & F St NW,Return,1,LATENIGHT,38.897222,-77.019347
+5th & F St NW,Return,15,LATEMORN,38.897222,-77.019347
+5th & F St NW,Return,11,AFTERNOON,38.897222,-77.019347
+5th & F St NW,Return,4,NIGHT,38.897222,-77.019347
+4th & M St SW,Return,8,NIGHT,38.8767,-77.0178
+4th & M St SW,Return,30,EVENING,38.8767,-77.0178
+4th & M St SW,Return,4,LATEMORN,38.8767,-77.0178
+4th & M St SW,Return,5,AFTERNOON,38.8767,-77.0178
+4th & M St SW,Return,1,LATENIGHT,38.8767,-77.0178
+Branch & Pennsylvania Ave SE,Return,1,LATENIGHT,38.8692,-76.9599
+19th & E Street NW,Return,6,EVENING,38.8952,-77.0436
+19th & E Street NW,Return,5,LATEMORN,38.8952,-77.0436
+19th & E Street NW,Return,3,AFTERNOON,38.8952,-77.0436
+19th & E Street NW,Return,2,NIGHT,38.8952,-77.0436
+Crystal City Metro / 18th & Bell St,Return,1,EARLYMORN,38.8573,-77.0511
+Crystal City Metro / 18th & Bell St,Return,7,EVENING,38.8573,-77.0511
+Crystal City Metro / 18th & Bell St,Return,6,LATEMORN,38.8573,-77.0511
+Crystal City Metro / 18th & Bell St,Return,1,AFTERNOON,38.8573,-77.0511
+Crystal City Metro / 18th & Bell St,Return,6,NIGHT,38.8573,-77.0511
+Henry St & Pendleton St,Return,1,EARLYMORN,38.811456,-77.050276
+Henry St & Pendleton St,Return,1,LATEMORN,38.811456,-77.050276
+Henry St & Pendleton St,Return,3,AFTERNOON,38.811456,-77.050276
+Henry St & Pendleton St,Return,1,NIGHT,38.811456,-77.050276
+M St & Pennsylvania Ave NW,Return,2,EARLYMORN,38.905126,-77.056887
+M St & Pennsylvania Ave NW,Return,13,EVENING,38.905126,-77.056887
+M St & Pennsylvania Ave NW,Return,19,LATEMORN,38.905126,-77.056887
+M St & Pennsylvania Ave NW,Return,22,AFTERNOON,38.905126,-77.056887
+M St & Pennsylvania Ave NW,Return,7,NIGHT,38.905126,-77.056887
+Kennedy Center,Return,4,EVENING,38.895184,-77.054845
+Kennedy Center,Return,1,EARLYMORN,38.895184,-77.054845
+Kennedy Center,Return,1,NIGHT,38.895184,-77.054845
+14th & Rhode Island Ave NW,Return,51,EVENING,38.9086,-77.0323
+14th & Rhode Island Ave NW,Return,1,EARLYMORN,38.9086,-77.0323
+14th & Rhode Island Ave NW,Return,4,LATENIGHT,38.9086,-77.0323
+14th & Rhode Island Ave NW,Return,7,LATEMORN,38.9086,-77.0323
+14th & Rhode Island Ave NW,Return,8,AFTERNOON,38.9086,-77.0323
+14th & Rhode Island Ave NW,Return,22,NIGHT,38.9086,-77.0323
+Maryland & Independence Ave SW,Return,1,EARLYMORN,38.887299,-77.018939
+Maryland & Independence Ave SW,Return,17,EVENING,38.887299,-77.018939
+Maryland & Independence Ave SW,Return,11,LATEMORN,38.887299,-77.018939
+Maryland & Independence Ave SW,Return,28,AFTERNOON,38.887299,-77.018939
+Maryland & Independence Ave SW,Return,2,NIGHT,38.887299,-77.018939
+3rd & H St NE,Return,12,NIGHT,38.900017,-77.001967
+3rd & H St NE,Return,15,EVENING,38.900017,-77.001967
+3rd & H St NE,Return,5,LATEMORN,38.900017,-77.001967
+3rd & H St NE,Return,3,AFTERNOON,38.900017,-77.001967
+3rd & H St NE,Return,3,LATENIGHT,38.900017,-77.001967
+12th & Army Navy Dr,Return,1,LATEMORN,38.8629,-77.0528
+12th & Army Navy Dr,Return,4,NIGHT,38.8629,-77.0528
+12th & Army Navy Dr,Return,3,EVENING,38.8629,-77.0528
+12th & Army Navy Dr,Return,2,AFTERNOON,38.8629,-77.0528
+12th & Army Navy Dr,Return,1,LATENIGHT,38.8629,-77.0528
+20th & L St NW,Return,2,EARLYMORN,38.903584,-77.044789
+20th & L St NW,Return,1,EVENING,38.903584,-77.044789
+20th & L St NW,Return,14,LATEMORN,38.903584,-77.044789
+20th & L St NW,Return,1,AFTERNOON,38.903584,-77.044789
+20th & L St NW,Return,1,NIGHT,38.903584,-77.044789
+Good Hope Rd & MLK Ave SE,Return,1,LATEMORN,38.867373,-76.988039
+Good Hope Rd & MLK Ave SE,Return,1,AFTERNOON,38.867373,-76.988039
+Virginia Square Metro / N Monroe St & 9th St N,Return,2,EARLYMORN,38.882788,-77.103148
+Virginia Square Metro / N Monroe St & 9th St N,Return,5,EVENING,38.882788,-77.103148
+Virginia Square Metro / N Monroe St & 9th St N,Return,2,LATEMORN,38.882788,-77.103148
+Virginia Square Metro / N Monroe St & 9th St N,Return,1,AFTERNOON,38.882788,-77.103148
+Virginia Square Metro / N Monroe St & 9th St N,Return,1,NIGHT,38.882788,-77.103148
+19th St & Constitution Ave NW,Return,22,EVENING,38.8923,-77.0436
+19th St & Constitution Ave NW,Return,23,LATEMORN,38.8923,-77.0436
+19th St & Constitution Ave NW,Return,11,AFTERNOON,38.8923,-77.0436
+19th St & Constitution Ave NW,Return,4,NIGHT,38.8923,-77.0436
+California St & Florida Ave NW,Return,8,NIGHT,38.917761,-77.04062
+California St & Florida Ave NW,Return,34,EVENING,38.917761,-77.04062
+California St & Florida Ave NW,Return,8,LATEMORN,38.917761,-77.04062
+California St & Florida Ave NW,Return,5,AFTERNOON,38.917761,-77.04062
+California St & Florida Ave NW,Return,3,LATENIGHT,38.917761,-77.04062
+15th & N Scott St,Return,2,EVENING,38.89054,-77.08095
+15th & N Scott St,Return,2,AFTERNOON,38.89054,-77.08095
+8th & H St NW,Return,27,EVENING,38.8997,-77.023086
+8th & H St NW,Return,1,EARLYMORN,38.8997,-77.023086
+8th & H St NW,Return,2,LATENIGHT,38.8997,-77.023086
+8th & H St NW,Return,15,LATEMORN,38.8997,-77.023086
+8th & H St NW,Return,23,AFTERNOON,38.8997,-77.023086
+8th & H St NW,Return,14,NIGHT,38.8997,-77.023086
+23rd & Crystal Dr,Return,5,EVENING,38.8533,-77.0498
+23rd & Crystal Dr,Return,2,LATEMORN,38.8533,-77.0498
+23rd & Crystal Dr,Return,6,AFTERNOON,38.8533,-77.0498
+23rd & Crystal Dr,Return,3,NIGHT,38.8533,-77.0498
+4th St & Massachusetts Ave NW,Return,12,NIGHT,38.9003,-77.016
+4th St & Massachusetts Ave NW,Return,16,EVENING,38.9003,-77.016
+4th St & Massachusetts Ave NW,Return,15,LATEMORN,38.9003,-77.016
+4th St & Massachusetts Ave NW,Return,9,AFTERNOON,38.9003,-77.016
+4th St & Massachusetts Ave NW,Return,4,LATENIGHT,38.9003,-77.016
+17th & Corcoran St NW,Return,46,EVENING,38.9121,-77.0387
+17th & Corcoran St NW,Return,1,EARLYMORN,38.9121,-77.0387
+17th & Corcoran St NW,Return,1,LATENIGHT,38.9121,-77.0387
+17th & Corcoran St NW,Return,16,LATEMORN,38.9121,-77.0387
+17th & Corcoran St NW,Return,30,AFTERNOON,38.9121,-77.0387
+17th & Corcoran St NW,Return,31,NIGHT,38.9121,-77.0387
+N Randolph St & Fairfax Dr,Return,1,AFTERNOON,38.882629,-77.109366
+N Randolph St & Fairfax Dr,Return,2,NIGHT,38.882629,-77.109366
+9th & Upshur St NW,Return,1,LATEMORN,38.9418,-77.0251
+9th & Upshur St NW,Return,7,NIGHT,38.9418,-77.0251
+9th & Upshur St NW,Return,1,EARLYMORN,38.9418,-77.0251
+9th & Upshur St NW,Return,6,EVENING,38.9418,-77.0251
+9th & Upshur St NW,Return,3,LATENIGHT,38.9418,-77.0251
+Ohio Dr & West Basin Dr SW / MLK & FDR Memorials,Return,9,EVENING,38.88412,-77.04657
+Ohio Dr & West Basin Dr SW / MLK & FDR Memorials,Return,8,AFTERNOON,38.88412,-77.04657
+Ohio Dr & West Basin Dr SW / MLK & FDR Memorials,Return,1,NIGHT,38.88412,-77.04657
+Fairfax Dr & Wilson Blvd,Return,6,EVENING,38.885801,-77.097745
+Fairfax Dr & Wilson Blvd,Return,2,LATEMORN,38.885801,-77.097745
+Fairfax Dr & Wilson Blvd,Return,2,AFTERNOON,38.885801,-77.097745
+Fairfax Dr & Wilson Blvd,Return,1,NIGHT,38.885801,-77.097745
+4th & D St NW / Judiciary Square,Return,1,EARLYMORN,38.895344,-77.016106
+4th & D St NW / Judiciary Square,Return,2,EVENING,38.895344,-77.016106
+4th & D St NW / Judiciary Square,Return,6,LATEMORN,38.895344,-77.016106
+4th & D St NW / Judiciary Square,Return,19,AFTERNOON,38.895344,-77.016106
+4th & D St NW / Judiciary Square,Return,1,NIGHT,38.895344,-77.016106
+14th & D St SE,Return,2,LATEMORN,38.884,-76.9861
+14th & D St SE,Return,7,NIGHT,38.884,-76.9861
+14th & D St SE,Return,19,EVENING,38.884,-76.9861
+14th & D St SE,Return,4,AFTERNOON,38.884,-76.9861
+14th & D St SE,Return,3,LATENIGHT,38.884,-76.9861
+26th & Crystal Dr,Return,1,EARLYMORN,38.8518,-77.0498
+26th & Crystal Dr,Return,6,EVENING,38.8518,-77.0498
+26th & Crystal Dr,Return,4,LATEMORN,38.8518,-77.0498
+26th & Crystal Dr,Return,2,AFTERNOON,38.8518,-77.0498
+Columbia Rd & Belmont St NW,Return,2,EARLYMORN,38.920669,-77.04368
+Columbia Rd & Belmont St NW,Return,20,EVENING,38.920669,-77.04368
+Columbia Rd & Belmont St NW,Return,2,LATEMORN,38.920669,-77.04368
+Columbia Rd & Belmont St NW,Return,5,AFTERNOON,38.920669,-77.04368
+Columbia Rd & Belmont St NW,Return,17,NIGHT,38.920669,-77.04368
+King St & Patrick St,Return,4,LATEMORN,38.805317,-77.049883
+King St & Patrick St,Return,1,AFTERNOON,38.805317,-77.049883
+King St & Patrick St,Return,3,NIGHT,38.805317,-77.049883
+Lamont & Mt Pleasant NW,Return,14,EVENING,38.9319,-77.0388
+Lamont & Mt Pleasant NW,Return,4,EARLYMORN,38.9319,-77.0388
+Lamont & Mt Pleasant NW,Return,5,LATENIGHT,38.9319,-77.0388
+Lamont & Mt Pleasant NW,Return,1,LATEMORN,38.9319,-77.0388
+Lamont & Mt Pleasant NW,Return,3,AFTERNOON,38.9319,-77.0388
+Lamont & Mt Pleasant NW,Return,16,NIGHT,38.9319,-77.0388
+17th & K St NW [formerly 17th & L St NW],Return,21,EVENING,38.90276,-77.03863
+17th & K St NW [formerly 17th & L St NW],Return,4,EARLYMORN,38.90276,-77.03863
+17th & K St NW [formerly 17th & L St NW],Return,1,LATENIGHT,38.90276,-77.03863
+17th & K St NW [formerly 17th & L St NW],Return,20,LATEMORN,38.90276,-77.03863
+17th & K St NW [formerly 17th & L St NW],Return,13,AFTERNOON,38.90276,-77.03863
+17th & K St NW [formerly 17th & L St NW],Return,7,NIGHT,38.90276,-77.03863
+Jefferson Memorial,Return,12,EVENING,38.879819,-77.037413
+Jefferson Memorial,Return,1,LATEMORN,38.879819,-77.037413
+Jefferson Memorial,Return,16,AFTERNOON,38.879819,-77.037413
+Jefferson Memorial,Return,4,NIGHT,38.879819,-77.037413
+Wilson Blvd & N Oakland St,Return,1,EVENING,38.8815,-77.10396
+Wilson Blvd & N Oakland St,Return,1,LATENIGHT,38.8815,-77.10396
+4th & E St SW,Return,15,EVENING,38.88412,-77.017445
+4th & E St SW,Return,1,EARLYMORN,38.88412,-77.017445
+4th & E St SW,Return,1,LATENIGHT,38.88412,-77.017445
+4th & E St SW,Return,18,LATEMORN,38.88412,-77.017445
+4th & E St SW,Return,3,AFTERNOON,38.88412,-77.017445
+4th & E St SW,Return,6,NIGHT,38.88412,-77.017445
+Randle Circle & Minnesota Ave NE,Return,1,AFTERNOON,38.878,-76.9607
+4th St & Rhode Island Ave NE,Return,7,NIGHT,38.919488,-77.000624
+4th St & Rhode Island Ave NE,Return,4,EVENING,38.919488,-77.000624
+4th St & Rhode Island Ave NE,Return,1,LATEMORN,38.919488,-77.000624
+4th St & Rhode Island Ave NE,Return,1,AFTERNOON,38.919488,-77.000624
+4th St & Rhode Island Ave NE,Return,1,LATENIGHT,38.919488,-77.000624
+15th & P St NW,Return,7,LATENIGHT,38.90985,-77.034438
+15th & P St NW,Return,58,EVENING,38.90985,-77.034438
+15th & P St NW,Return,16,LATEMORN,38.90985,-77.034438
+15th & P St NW,Return,33,AFTERNOON,38.90985,-77.034438
+15th & P St NW,Return,34,NIGHT,38.90985,-77.034438
+36th & Calvert St NW / Glover Park,Return,3,EVENING,38.922581,-77.070334
+36th & Calvert St NW / Glover Park,Return,1,LATEMORN,38.922581,-77.070334
+36th & Calvert St NW / Glover Park,Return,2,AFTERNOON,38.922581,-77.070334
+15th & Crystal Dr,Return,2,EVENING,38.860244,-77.050276
+15th & Crystal Dr,Return,1,LATEMORN,38.860244,-77.050276
+15th & Crystal Dr,Return,2,AFTERNOON,38.860244,-77.050276
+15th St & Massachusetts Ave SE,Return,7,NIGHT,38.88732,-76.983569
+15th St & Massachusetts Ave SE,Return,21,EVENING,38.88732,-76.983569
+15th St & Massachusetts Ave SE,Return,5,AFTERNOON,38.88732,-76.983569
+15th St & Massachusetts Ave SE,Return,4,LATENIGHT,38.88732,-76.983569
