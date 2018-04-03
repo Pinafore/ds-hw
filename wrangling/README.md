@@ -71,27 +71,27 @@ difference between the first place candidate and the second is 100.
 
     $ python districts.py
     $ head district_margins.csv
-    STATE,DISTRICT,MARGIN
-    Arizona,2,0.07000000000000028
-    California,7,0.7999999999999972
-    Florida,2,1.1299999999999955
-    Minnesota,8,1.3999999999999986
-    Maryland,6,1.4500000000000028
-    California,16,1.4599999999999937
-    Washington,4,1.6200000000000045
-    Texas,23,2.1000000000000014
-    Iowa,1,2.280000000000001
+    DISTRICT,MARGIN
+    Arizona 2,0.07000000000000028
+    California 7,0.7999999999999972
+    Florida 2,1.1299999999999955
+    Minnesota 8,1.3999999999999986
+    Maryland 6,1.4500000000000028
+    California 16,1.4599999999999937
+    Washington 4,1.6200000000000045
+    Texas 23,2.1000000000000014
+    Iowa 1,2.280000000000001
     $ tail district_margins.csv
-    Florida,12,100.0
-    Pennsylvania,18,100.0
-    Georgia,11,100.0
-    Florida,25,100.0
-    Pennsylvania,14,100.0
-    Georgia,13,100.0
-    Texas,4,100.0
-    Pennsylvania,15,100.0
-    Georgia,5,100.0
-    Florida,14,100.0
+    Florida 12,100.0
+    Pennsylvania 18,100.0
+    Georgia 11,100.0
+    Florida 25,100.0
+    Pennsylvania 14,100.0
+    Georgia 13,100.0
+    Texas 4,100.0
+    Pennsylvania 15,100.0
+    Georgia 5,100.0
+    Florida 14,100.0
 
 To complete this assignment you'll need to complete three functions:
 * district_margins
@@ -101,6 +101,15 @@ To complete this assignment you'll need to complete three functions:
 You should not need to modify the "main" function.
 
 Submit your CSV file to [Kaggle](https://www.kaggle.com/c/2018-414-wrangling) and it will score how well you did.
+
+How to begin
+-----------------------
+
+First, look at the code that I've provided.  Run it.  Look at the outputs.  You'll notice the key.csv is very close to what you need to produce.  It's just that the numbers are wrong.  That's because the code isn't actually computing the margins between districts.
+
+We did an example with the 2012 election where we computed margins from a CSV file.  Make sure you completely understand what we did there and that you can replicate it yourself.  This will save you headaches while exploring this assignment.
+
+Run the tests.py program and see what's broken.  Work to try to fix that by filling in the functions that I've left incomplete.  You should get down to zero errors in the test file.  Now, take a look at the output of your program (the CSV file) and see if it looks right.  You can get feedback from Kaggle if you're on the right track.
 
 Writeup (10 points)
 -----------------------
