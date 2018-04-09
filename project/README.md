@@ -44,7 +44,7 @@ assignment.
 Final Presentation
 ======================
 
-The final presentation will be in class on 8 and 10 of May.  In the final presentation you will:
+The final presentation will be in class on 8 and 10 of May (most will be on May 8, however, so plan for that day).  In the final presentation you will:
 
 * Explain what you did
 
