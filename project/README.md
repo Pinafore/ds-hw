@@ -44,8 +44,7 @@ assignment.
 Final Presentation
 ======================
 
-The final presentation will be in class on 15. December (at 13:30, not the
-usual class time).  In the final presentation you will:
+The final presentation will be in class on 8 and 10 of May.  In the final presentation you will:
 
 * Explain what you did
 
