@@ -28,7 +28,8 @@ You are limited to 1000 words (but unlimited figures)
 
 Upload
 =======================
-Upload your write-up and all of your code and data (beyond the data from Kaggle) to ELMS.
+Upload your write-up and all of your code and data (beyond the data from Kaggle) to ELMS:
+https://umd.instructure.com/courses/1239622/assignments/4620861
 
 Your upload formats must be as following:
 
