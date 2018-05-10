@@ -79,7 +79,7 @@ enough groups that we cannot have much give on time.)
 Project Writeup
 ======================
 
-By midnight, Friday May 11, have the person in your group whose last name
+By May 13 (Sunday) 11:59 P.M., have the person in your group whose last name
 is alphabetically last submit their project writeup explaining what
 you did and what results you achieved on Moodle.  This document should
 make it clear:
